@@ -1,0 +1,513 @@
+{
+    "createdAt":  "2025-07-27T16:03:25.093Z",
+    "updatedAt":  "2025-12-12T02:32:43.316Z",
+    "globalType":  "services_page",
+    "layout_before":  [
+                          {
+                              "blockType":  "reusable_block",
+                              "reusableContent":  {
+                                                      "createdAt":  "2025-07-27T13:42:43.645Z",
+                                                      "updatedAt":  "2026-05-29T09:48:26.383Z",
+                                                      "title":  "Intro (Services)",
+                                                      "layout":  [
+                                                                     {
+                                                                         "blockType":  "intro",
+                                                                         "bgImage":  {
+                                                                                         "createdAt":  "2025-11-08T06:05:09.691Z",
+                                                                                         "updatedAt":  "2026-05-29T09:48:19.788Z",
+                                                                                         "filename":  "standard-quality-control-concept-m-1-scaled-1.jpg",
+                                                                                         "mimeType":  "image/jpeg",
+                                                                                         "filesize":  373709,
+                                                                                         "width":  2560,
+                                                                                         "height":  1703,
+                                                                                         "focalX":  50,
+                                                                                         "focalY":  50,
+                                                                                         "sizes":  {
+                                                                                                       "thumbnail":  {
+                                                                                                                         "url":  "/api/media/file/standard-quality-control-concept-m-1-scaled-1-300x200.jpg",
+                                                                                                                         "width":  300,
+                                                                                                                         "height":  200,
+                                                                                                                         "mimeType":  "image/jpeg",
+                                                                                                                         "filesize":  10428,
+                                                                                                                         "filename":  "standard-quality-control-concept-m-1-scaled-1-300x200.jpg"
+                                                                                                                     },
+                                                                                                       "square":  {
+                                                                                                                      "url":  "/api/media/file/standard-quality-control-concept-m-1-scaled-1-500x500.jpg",
+                                                                                                                      "width":  500,
+                                                                                                                      "height":  500,
+                                                                                                                      "mimeType":  "image/jpeg",
+                                                                                                                      "filesize":  32276,
+                                                                                                                      "filename":  "standard-quality-control-concept-m-1-scaled-1-500x500.jpg"
+                                                                                                                  },
+                                                                                                       "small":  {
+                                                                                                                     "url":  "/api/media/file/standard-quality-control-concept-m-1-scaled-1-600x399.jpg",
+                                                                                                                     "width":  600,
+                                                                                                                     "height":  399,
+                                                                                                                     "mimeType":  "image/jpeg",
+                                                                                                                     "filesize":  29252,
+                                                                                                                     "filename":  "standard-quality-control-concept-m-1-scaled-1-600x399.jpg"
+                                                                                                                 },
+                                                                                                       "medium":  {
+                                                                                                                      "url":  "/api/media/file/standard-quality-control-concept-m-1-scaled-1-900x599.jpg",
+                                                                                                                      "width":  900,
+                                                                                                                      "height":  599,
+                                                                                                                      "mimeType":  "image/jpeg",
+                                                                                                                      "filesize":  55048,
+                                                                                                                      "filename":  "standard-quality-control-concept-m-1-scaled-1-900x599.jpg"
+                                                                                                                  },
+                                                                                                       "large":  {
+                                                                                                                     "url":  "/api/media/file/standard-quality-control-concept-m-1-scaled-1-1400x931.jpg",
+                                                                                                                     "width":  1400,
+                                                                                                                     "height":  931,
+                                                                                                                     "mimeType":  "image/jpeg",
+                                                                                                                     "filesize":  108686,
+                                                                                                                     "filename":  "standard-quality-control-concept-m-1-scaled-1-1400x931.jpg"
+                                                                                                                 },
+                                                                                                       "xlarge":  {
+                                                                                                                      "url":  "/api/media/file/standard-quality-control-concept-m-1-scaled-1-1920x1277.jpg",
+                                                                                                                      "width":  1920,
+                                                                                                                      "height":  1277,
+                                                                                                                      "mimeType":  "image/jpeg",
+                                                                                                                      "filesize":  177094,
+                                                                                                                      "filename":  "standard-quality-control-concept-m-1-scaled-1-1920x1277.jpg"
+                                                                                                                  },
+                                                                                                       "og":  {
+                                                                                                                  "url":  "/api/media/file/standard-quality-control-concept-m-1-scaled-1-1200x630.jpg",
+                                                                                                                  "width":  1200,
+                                                                                                                  "height":  630,
+                                                                                                                  "mimeType":  "image/jpeg",
+                                                                                                                  "filesize":  78237,
+                                                                                                                  "filename":  "standard-quality-control-concept-m-1-scaled-1-1200x630.jpg"
+                                                                                                              }
+                                                                                                   },
+                                                                                         "thumbnailURL":  "/api/media/file/standard-quality-control-concept-m-1-scaled-1-300x200.jpg",
+                                                                                         "url":  "/api/media/file/standard-quality-control-concept-m-1-scaled-1.jpg",
+                                                                                         "id":  "690edd95ae19d1e1e9a4f553"
+                                                                                     },
+                                                                         "short_title":  "Our Services",
+                                                                         "title":  "Our Services",
+                                                                         "id":  "68862c522e11eea782f26abe"
+                                                                     }
+                                                                 ],
+                                                      "_status":  "published",
+                                                      "id":  "68862cd31f508672f55e7ee6"
+                                                  },
+                              "bg_style":  "default",
+                              "id":  "68864d88d1beb88126dab08c",
+                              "blockName":  "Intro"
+                          }
+                      ],
+    "layout_after":  [
+                         {
+                             "blockType":  "reusable_block",
+                             "reusableContent":  {
+                                                     "createdAt":  "2025-07-27T15:57:39.988Z",
+                                                     "updatedAt":  "2025-11-08T06:05:19.137Z",
+                                                     "title":  "Call to Action 2",
+                                                     "layout":  [
+                                                                    {
+                                                                        "blockType":  "call_to_action_2",
+                                                                        "bgImage":  {
+                                                                                        "createdAt":  "2025-11-08T06:05:09.691Z",
+                                                                                        "updatedAt":  "2026-05-29T09:48:19.788Z",
+                                                                                        "filename":  "standard-quality-control-concept-m-1-scaled-1.jpg",
+                                                                                        "mimeType":  "image/jpeg",
+                                                                                        "filesize":  373709,
+                                                                                        "width":  2560,
+                                                                                        "height":  1703,
+                                                                                        "focalX":  50,
+                                                                                        "focalY":  50,
+                                                                                        "sizes":  {
+                                                                                                      "thumbnail":  {
+                                                                                                                        "url":  "/api/media/file/standard-quality-control-concept-m-1-scaled-1-300x200.jpg",
+                                                                                                                        "width":  300,
+                                                                                                                        "height":  200,
+                                                                                                                        "mimeType":  "image/jpeg",
+                                                                                                                        "filesize":  10428,
+                                                                                                                        "filename":  "standard-quality-control-concept-m-1-scaled-1-300x200.jpg"
+                                                                                                                    },
+                                                                                                      "square":  {
+                                                                                                                     "url":  "/api/media/file/standard-quality-control-concept-m-1-scaled-1-500x500.jpg",
+                                                                                                                     "width":  500,
+                                                                                                                     "height":  500,
+                                                                                                                     "mimeType":  "image/jpeg",
+                                                                                                                     "filesize":  32276,
+                                                                                                                     "filename":  "standard-quality-control-concept-m-1-scaled-1-500x500.jpg"
+                                                                                                                 },
+                                                                                                      "small":  {
+                                                                                                                    "url":  "/api/media/file/standard-quality-control-concept-m-1-scaled-1-600x399.jpg",
+                                                                                                                    "width":  600,
+                                                                                                                    "height":  399,
+                                                                                                                    "mimeType":  "image/jpeg",
+                                                                                                                    "filesize":  29252,
+                                                                                                                    "filename":  "standard-quality-control-concept-m-1-scaled-1-600x399.jpg"
+                                                                                                                },
+                                                                                                      "medium":  {
+                                                                                                                     "url":  "/api/media/file/standard-quality-control-concept-m-1-scaled-1-900x599.jpg",
+                                                                                                                     "width":  900,
+                                                                                                                     "height":  599,
+                                                                                                                     "mimeType":  "image/jpeg",
+                                                                                                                     "filesize":  55048,
+                                                                                                                     "filename":  "standard-quality-control-concept-m-1-scaled-1-900x599.jpg"
+                                                                                                                 },
+                                                                                                      "large":  {
+                                                                                                                    "url":  "/api/media/file/standard-quality-control-concept-m-1-scaled-1-1400x931.jpg",
+                                                                                                                    "width":  1400,
+                                                                                                                    "height":  931,
+                                                                                                                    "mimeType":  "image/jpeg",
+                                                                                                                    "filesize":  108686,
+                                                                                                                    "filename":  "standard-quality-control-concept-m-1-scaled-1-1400x931.jpg"
+                                                                                                                },
+                                                                                                      "xlarge":  {
+                                                                                                                     "url":  "/api/media/file/standard-quality-control-concept-m-1-scaled-1-1920x1277.jpg",
+                                                                                                                     "width":  1920,
+                                                                                                                     "height":  1277,
+                                                                                                                     "mimeType":  "image/jpeg",
+                                                                                                                     "filesize":  177094,
+                                                                                                                     "filename":  "standard-quality-control-concept-m-1-scaled-1-1920x1277.jpg"
+                                                                                                                 },
+                                                                                                      "og":  {
+                                                                                                                 "url":  "/api/media/file/standard-quality-control-concept-m-1-scaled-1-1200x630.jpg",
+                                                                                                                 "width":  1200,
+                                                                                                                 "height":  630,
+                                                                                                                 "mimeType":  "image/jpeg",
+                                                                                                                 "filesize":  78237,
+                                                                                                                 "filename":  "standard-quality-control-concept-m-1-scaled-1-1200x630.jpg"
+                                                                                                             }
+                                                                                                  },
+                                                                                        "thumbnailURL":  "/api/media/file/standard-quality-control-concept-m-1-scaled-1-300x200.jpg",
+                                                                                        "url":  "/api/media/file/standard-quality-control-concept-m-1-scaled-1.jpg",
+                                                                                        "id":  "690edd95ae19d1e1e9a4f553"
+                                                                                    },
+                                                                        "title":  "Do you have any questions?",
+                                                                        "button1_text":  "FAQ",
+                                                                        "button1_url":  "/faq",
+                                                                        "button2_text":  "Let\u0027s Talk",
+                                                                        "button2_url":  "/contact",
+                                                                        "id":  "68864c5fd1beb88126dab07c"
+                                                                    }
+                                                                ],
+                                                     "_status":  "published",
+                                                     "id":  "68864c731f508672f55ea162"
+                                                 },
+                             "bg_style":  "default",
+                             "padding_top":  "0",
+                             "padding_bottom":  "0",
+                             "id":  "68864da9d1beb88126dab08e",
+                             "blockName":  "CTA 2"
+                         },
+                         {
+                             "blockType":  "reusable_block",
+                             "reusableContent":  {
+                                                     "createdAt":  "2025-11-12T17:41:37.167Z",
+                                                     "updatedAt":  "2025-11-12T17:42:26.645Z",
+                                                     "title":  "Prices 5",
+                                                     "layout":  [
+                                                                    {
+                                                                        "blockType":  "prices_block",
+                                                                        "badge":  "Prices",
+                                                                        "title":  "Flexible \u003cspan class=\"mil-opacity-text\"\u003ePlans\u003c/span\u003e\u003cbr\u003e for Every Business",
+                                                                        "description":  "One-time pricing. Scalable to need.",
+                                                                        "button_text":  "Read more",
+                                                                        "button_url":  "/prices",
+                                                                        "plans":  [
+                                                                                      {
+                                                                                          "name":  "Essential Start",
+                                                                                          "price":  "490",
+                                                                                          "price_suffix":  "/ one-time",
+                                                                                          "description":  "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod.",
+                                                                                          "features":  [
+                                                                                                           {
+                                                                                                               "item":  "1:1 strategy session",
+                                                                                                               "disabled":  false,
+                                                                                                               "id":  "6914c6d1a446b51a4234d9e7"
+                                                                                                           },
+                                                                                                           {
+                                                                                                               "item":  "Market overview report",
+                                                                                                               "disabled":  false,
+                                                                                                               "id":  "6914c6d1a446b51a4234d9e8"
+                                                                                                           },
+                                                                                                           {
+                                                                                                               "item":  "Basic competitor analysis",
+                                                                                                               "disabled":  false,
+                                                                                                               "id":  "6914c6d1a446b51a4234d9e9"
+                                                                                                           },
+                                                                                                           {
+                                                                                                               "item":  "Action plan (PDF)",
+                                                                                                               "disabled":  true,
+                                                                                                               "id":  "6914c6d1a446b51a4234d9ea"
+                                                                                                           },
+                                                                                                           {
+                                                                                                               "item":  "Full operations audit",
+                                                                                                               "disabled":  true,
+                                                                                                               "id":  "6914c6d1a446b51a4234d9eb"
+                                                                                                           },
+                                                                                                           {
+                                                                                                               "item":  "Ongoing support",
+                                                                                                               "disabled":  true,
+                                                                                                               "id":  "6914c6d1a446b51a4234d9ec"
+                                                                                                           },
+                                                                                                           {
+                                                                                                               "item":  "Custom research",
+                                                                                                               "disabled":  true,
+                                                                                                               "id":  "6914c6d1a446b51a4234d9ed"
+                                                                                                           }
+                                                                                                       ],
+                                                                                          "button_text":  "Choose a plan",
+                                                                                          "button_url":  "/contact",
+                                                                                          "button_style":  "mil-dark",
+                                                                                          "card_style":  "mil-gray-card",
+                                                                                          "id":  "6914c6d1a446b51a4234d9ee"
+                                                                                      },
+                                                                                      {
+                                                                                          "name":  "Growth Focus",
+                                                                                          "price":  "990",
+                                                                                          "price_suffix":  "/ one-time",
+                                                                                          "description":  "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod.",
+                                                                                          "features":  [
+                                                                                                           {
+                                                                                                               "item":  "1:1 strategy session",
+                                                                                                               "disabled":  false,
+                                                                                                               "id":  "6914c6d1a446b51a4234d9ef"
+                                                                                                           },
+                                                                                                           {
+                                                                                                               "item":  "Market overview report",
+                                                                                                               "disabled":  false,
+                                                                                                               "id":  "6914c6d1a446b51a4234d9f0"
+                                                                                                           },
+                                                                                                           {
+                                                                                                               "item":  "Basic competitor analysis",
+                                                                                                               "disabled":  false,
+                                                                                                               "id":  "6914c6d1a446b51a4234d9f1"
+                                                                                                           },
+                                                                                                           {
+                                                                                                               "item":  "Action plan (PDF)",
+                                                                                                               "disabled":  false,
+                                                                                                               "id":  "6914c6d1a446b51a4234d9f2"
+                                                                                                           },
+                                                                                                           {
+                                                                                                               "item":  "Full operations audit",
+                                                                                                               "disabled":  false,
+                                                                                                               "id":  "6914c6d1a446b51a4234d9f3"
+                                                                                                           },
+                                                                                                           {
+                                                                                                               "item":  "Ongoing support",
+                                                                                                               "disabled":  true,
+                                                                                                               "id":  "6914c6d1a446b51a4234d9f4"
+                                                                                                           },
+                                                                                                           {
+                                                                                                               "item":  "Custom research",
+                                                                                                               "disabled":  true,
+                                                                                                               "id":  "6914c6d1a446b51a4234d9f5"
+                                                                                                           }
+                                                                                                       ],
+                                                                                          "button_text":  "Choose a plan",
+                                                                                          "button_url":  "/contact",
+                                                                                          "button_style":  "mil-dark",
+                                                                                          "card_style":  "mil-gray-card",
+                                                                                          "id":  "6914c6d1a446b51a4234d9f6"
+                                                                                      },
+                                                                                      {
+                                                                                          "name":  "Business Core",
+                                                                                          "price":  "2990",
+                                                                                          "price_suffix":  "/ one-time",
+                                                                                          "description":  "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod.",
+                                                                                          "features":  [
+                                                                                                           {
+                                                                                                               "item":  "1:1 strategy session",
+                                                                                                               "disabled":  false,
+                                                                                                               "id":  "6914c6d1a446b51a4234d9f7"
+                                                                                                           },
+                                                                                                           {
+                                                                                                               "item":  "Market overview report",
+                                                                                                               "disabled":  false,
+                                                                                                               "id":  "6914c6d1a446b51a4234d9f8"
+                                                                                                           },
+                                                                                                           {
+                                                                                                               "item":  "Basic competitor analysis",
+                                                                                                               "disabled":  false,
+                                                                                                               "id":  "6914c6d1a446b51a4234d9f9"
+                                                                                                           },
+                                                                                                           {
+                                                                                                               "item":  "Action plan (PDF)",
+                                                                                                               "disabled":  false,
+                                                                                                               "id":  "6914c6d1a446b51a4234d9fa"
+                                                                                                           },
+                                                                                                           {
+                                                                                                               "item":  "Full operations audit",
+                                                                                                               "disabled":  false,
+                                                                                                               "id":  "6914c6d1a446b51a4234d9fb"
+                                                                                                           },
+                                                                                                           {
+                                                                                                               "item":  "Ongoing support",
+                                                                                                               "disabled":  false,
+                                                                                                               "id":  "6914c6d1a446b51a4234d9fc"
+                                                                                                           },
+                                                                                                           {
+                                                                                                               "item":  "Custom research",
+                                                                                                               "disabled":  false,
+                                                                                                               "id":  "6914c6d1a446b51a4234d9fd"
+                                                                                                           }
+                                                                                                       ],
+                                                                                          "button_text":  "Choose a plan",
+                                                                                          "button_url":  "/contact",
+                                                                                          "button_style":  "mil-dark",
+                                                                                          "card_style":  "mil-gray-card",
+                                                                                          "id":  "6914c6d1a446b51a4234d9fe"
+                                                                                      }
+                                                                                  ],
+                                                                        "id":  "6914c6d1a446b51a4234d9ff"
+                                                                    }
+                                                                ],
+                                                     "_status":  "published",
+                                                     "id":  "6914c6d172d3d010fdca2fe0"
+                                                 },
+                             "bg_style":  "default",
+                             "padding_top":  "0",
+                             "padding_bottom":  "0",
+                             "id":  "6918d4331a6a9e08f397ec3e",
+                             "blockName":  "Prices 5"
+                         },
+                         {
+                             "blockType":  "reusable_block",
+                             "reusableContent":  {
+                                                     "createdAt":  "2025-11-15T19:56:46.613Z",
+                                                     "updatedAt":  "2025-11-15T19:56:46.613Z",
+                                                     "title":  "Call to Action (Video)",
+                                                     "layout":  [
+                                                                    {
+                                                                        "blockType":  "call_to_action",
+                                                                        "bgImage":  {
+                                                                                        "createdAt":  "2025-11-15T19:56:18.596Z",
+                                                                                        "updatedAt":  "2025-11-15T19:56:18.596Z",
+                                                                                        "filename":  "video-15.mp4",
+                                                                                        "mimeType":  "video/mp4",
+                                                                                        "filesize":  10662557,
+                                                                                        "sizes":  {
+                                                                                                      "thumbnail":  {
+                                                                                                                        "url":  null
+                                                                                                                    },
+                                                                                                      "square":  {
+                                                                                                                     "url":  null
+                                                                                                                 },
+                                                                                                      "small":  {
+                                                                                                                    "url":  null
+                                                                                                                },
+                                                                                                      "medium":  {
+                                                                                                                     "url":  null
+                                                                                                                 },
+                                                                                                      "large":  {
+                                                                                                                    "url":  null
+                                                                                                                },
+                                                                                                      "xlarge":  {
+                                                                                                                     "url":  null
+                                                                                                                 },
+                                                                                                      "og":  {
+                                                                                                                 "url":  null
+                                                                                                             }
+                                                                                                  },
+                                                                                        "id":  "6918dae23e573fa70e0e501a",
+                                                                                        "url":  "/api/media/file/video-15.mp4",
+                                                                                        "thumbnailURL":  null
+                                                                                    },
+                                                                        "icon":  {
+                                                                                     "createdAt":  "2025-11-05T18:45:05.385Z",
+                                                                                     "updatedAt":  "2026-05-29T09:28:25.881Z",
+                                                                                     "filename":  "professional-portfolio.png",
+                                                                                     "mimeType":  "image/png",
+                                                                                     "filesize":  3316,
+                                                                                     "width":  128,
+                                                                                     "height":  128,
+                                                                                     "focalX":  50,
+                                                                                     "focalY":  50,
+                                                                                     "sizes":  {
+                                                                                                   "thumbnail":  {
+                                                                                                                     "url":  null,
+                                                                                                                     "width":  null,
+                                                                                                                     "height":  null,
+                                                                                                                     "mimeType":  null,
+                                                                                                                     "filesize":  null,
+                                                                                                                     "filename":  null
+                                                                                                                 },
+                                                                                                   "square":  {
+                                                                                                                  "url":  null,
+                                                                                                                  "width":  null,
+                                                                                                                  "height":  null,
+                                                                                                                  "mimeType":  null,
+                                                                                                                  "filesize":  null,
+                                                                                                                  "filename":  null
+                                                                                                              },
+                                                                                                   "small":  {
+                                                                                                                 "url":  null,
+                                                                                                                 "width":  null,
+                                                                                                                 "height":  null,
+                                                                                                                 "mimeType":  null,
+                                                                                                                 "filesize":  null,
+                                                                                                                 "filename":  null
+                                                                                                             },
+                                                                                                   "medium":  {
+                                                                                                                  "url":  null,
+                                                                                                                  "width":  null,
+                                                                                                                  "height":  null,
+                                                                                                                  "mimeType":  null,
+                                                                                                                  "filesize":  null,
+                                                                                                                  "filename":  null
+                                                                                                              },
+                                                                                                   "large":  {
+                                                                                                                 "url":  null,
+                                                                                                                 "width":  null,
+                                                                                                                 "height":  null,
+                                                                                                                 "mimeType":  null,
+                                                                                                                 "filesize":  null,
+                                                                                                                 "filename":  null
+                                                                                                             },
+                                                                                                   "xlarge":  {
+                                                                                                                  "url":  null,
+                                                                                                                  "width":  null,
+                                                                                                                  "height":  null,
+                                                                                                                  "mimeType":  null,
+                                                                                                                  "filesize":  null,
+                                                                                                                  "filename":  null
+                                                                                                              },
+                                                                                                   "og":  {
+                                                                                                              "url":  null,
+                                                                                                              "width":  null,
+                                                                                                              "height":  null,
+                                                                                                              "mimeType":  null,
+                                                                                                              "filesize":  null,
+                                                                                                              "filename":  null
+                                                                                                          }
+                                                                                               },
+                                                                                     "thumbnailURL":  null,
+                                                                                     "url":  "/api/media/file/professional-portfolio.png",
+                                                                                     "id":  "690b9b31f1a1aaef9bdc6bbc"
+                                                                                 },
+                                                                        "badge":  "Call to action",
+                                                                        "title":  "Pure Clarity \u003cbr\u003eFor Competitive\u003cbr\u003e \u003cspan class=\"mil-opacity-text\"\u003eAdvantage\u003c/span\u003e",
+                                                                        "description":  "Empowering your business to thrive in a fast-changing \u003cbr class=\"mil-sm-hidden\"\u003eworld with clarity, strategy, and focus.",
+                                                                        "button1_text":  "Read more",
+                                                                        "button1_url":  "/services",
+                                                                        "button2_text":  "Let\u0027s Talk",
+                                                                        "button2_url":  "/contact",
+                                                                        "id":  "6918da581a6a9e08f397ec42",
+                                                                        "blockName":  ""
+                                                                    }
+                                                                ],
+                                                     "_status":  "published",
+                                                     "id":  "6918dafe3e573fa70e0e503e"
+                                                 },
+                             "bg_style":  "default",
+                             "padding_top":  "0",
+                             "padding_bottom":  "0",
+                             "id":  "6918db0c1a6a9e08f397ec44",
+                             "blockName":  "CTA Video"
+                         }
+                     ],
+    "meta":  {
+                 "title":  "Services | Lumex Template"
+             },
+    "badge":  "Services",
+    "description":  "Our services are designed to solve complex challenges and drive measurable growth. From strategy and research to operations and transformation, we deliver tailored solutions that align with your goals, adapt to your needs, and scale with your business.",
+    "title":  "Solutions That \u003cbr class=\"mil-sm-hidden\"/\u003eDrive \u003cspan class=\"mil-opacity-text\"\u003eBusiness\u003c/span\u003e Forward",
+    "id":  "68864dcd1f508672f55ea2f1"
+}

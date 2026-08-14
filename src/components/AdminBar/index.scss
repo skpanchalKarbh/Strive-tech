@@ -1,0 +1,33 @@
+@import '~@payloadcms/ui/scss';
+
+.admin-bar {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  z-index: 1001;
+  opacity: 0.5;
+
+  &.bg-black {
+    background-color: #000;
+  }
+  &.hidden {
+    padding: 0 !important;
+  }
+  &.text-white {
+    color: #fff;
+  }
+  &.py-2 {
+    padding: 0.75rem 0;
+  }
+
+  @include small-break {
+    display: none;
+  }
+
+  a {
+    &:hover {
+      text-decoration: underline !important;
+    }
+  }
+}

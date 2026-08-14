@@ -1,0 +1,1692 @@
+{
+    "docs":  [
+                 {
+                     "createdAt":  "2026-05-29T09:46:43.533Z",
+                     "updatedAt":  "2026-06-01T06:08:26.124Z",
+                     "title":  "Services",
+                     "layout":  [
+                                    {
+                                        "blockType":  "reusable_block",
+                                        "reusableContent":  {
+                                                                "createdAt":  "2025-07-27T13:42:43.645Z",
+                                                                "updatedAt":  "2026-05-29T09:48:26.383Z",
+                                                                "title":  "Intro (Services)",
+                                                                "layout":  [
+                                                                               {
+                                                                                   "blockType":  "intro",
+                                                                                   "bgImage":  {
+                                                                                                   "createdAt":  "2025-11-08T06:05:09.691Z",
+                                                                                                   "updatedAt":  "2026-05-29T09:48:19.788Z",
+                                                                                                   "filename":  "standard-quality-control-concept-m-1-scaled-1.jpg",
+                                                                                                   "mimeType":  "image/jpeg",
+                                                                                                   "filesize":  373709,
+                                                                                                   "width":  2560,
+                                                                                                   "height":  1703,
+                                                                                                   "focalX":  50,
+                                                                                                   "focalY":  50,
+                                                                                                   "sizes":  {
+                                                                                                                 "thumbnail":  {
+                                                                                                                                   "url":  "/api/media/file/standard-quality-control-concept-m-1-scaled-1-300x200.jpg",
+                                                                                                                                   "width":  300,
+                                                                                                                                   "height":  200,
+                                                                                                                                   "mimeType":  "image/jpeg",
+                                                                                                                                   "filesize":  10428,
+                                                                                                                                   "filename":  "standard-quality-control-concept-m-1-scaled-1-300x200.jpg"
+                                                                                                                               },
+                                                                                                                 "square":  {
+                                                                                                                                "url":  "/api/media/file/standard-quality-control-concept-m-1-scaled-1-500x500.jpg",
+                                                                                                                                "width":  500,
+                                                                                                                                "height":  500,
+                                                                                                                                "mimeType":  "image/jpeg",
+                                                                                                                                "filesize":  32276,
+                                                                                                                                "filename":  "standard-quality-control-concept-m-1-scaled-1-500x500.jpg"
+                                                                                                                            },
+                                                                                                                 "small":  {
+                                                                                                                               "url":  "/api/media/file/standard-quality-control-concept-m-1-scaled-1-600x399.jpg",
+                                                                                                                               "width":  600,
+                                                                                                                               "height":  399,
+                                                                                                                               "mimeType":  "image/jpeg",
+                                                                                                                               "filesize":  29252,
+                                                                                                                               "filename":  "standard-quality-control-concept-m-1-scaled-1-600x399.jpg"
+                                                                                                                           },
+                                                                                                                 "medium":  {
+                                                                                                                                "url":  "/api/media/file/standard-quality-control-concept-m-1-scaled-1-900x599.jpg",
+                                                                                                                                "width":  900,
+                                                                                                                                "height":  599,
+                                                                                                                                "mimeType":  "image/jpeg",
+                                                                                                                                "filesize":  55048,
+                                                                                                                                "filename":  "standard-quality-control-concept-m-1-scaled-1-900x599.jpg"
+                                                                                                                            },
+                                                                                                                 "large":  {
+                                                                                                                               "url":  "/api/media/file/standard-quality-control-concept-m-1-scaled-1-1400x931.jpg",
+                                                                                                                               "width":  1400,
+                                                                                                                               "height":  931,
+                                                                                                                               "mimeType":  "image/jpeg",
+                                                                                                                               "filesize":  108686,
+                                                                                                                               "filename":  "standard-quality-control-concept-m-1-scaled-1-1400x931.jpg"
+                                                                                                                           },
+                                                                                                                 "xlarge":  {
+                                                                                                                                "url":  "/api/media/file/standard-quality-control-concept-m-1-scaled-1-1920x1277.jpg",
+                                                                                                                                "width":  1920,
+                                                                                                                                "height":  1277,
+                                                                                                                                "mimeType":  "image/jpeg",
+                                                                                                                                "filesize":  177094,
+                                                                                                                                "filename":  "standard-quality-control-concept-m-1-scaled-1-1920x1277.jpg"
+                                                                                                                            },
+                                                                                                                 "og":  {
+                                                                                                                            "url":  "/api/media/file/standard-quality-control-concept-m-1-scaled-1-1200x630.jpg",
+                                                                                                                            "width":  1200,
+                                                                                                                            "height":  630,
+                                                                                                                            "mimeType":  "image/jpeg",
+                                                                                                                            "filesize":  78237,
+                                                                                                                            "filename":  "standard-quality-control-concept-m-1-scaled-1-1200x630.jpg"
+                                                                                                                        }
+                                                                                                             },
+                                                                                                   "thumbnailURL":  "/api/media/file/standard-quality-control-concept-m-1-scaled-1-300x200.jpg",
+                                                                                                   "url":  "/api/media/file/standard-quality-control-concept-m-1-scaled-1.jpg",
+                                                                                                   "id":  "690edd95ae19d1e1e9a4f553"
+                                                                                               },
+                                                                                   "short_title":  "Our Services",
+                                                                                   "title":  "Our Services",
+                                                                                   "id":  "68862c522e11eea782f26abe"
+                                                                               }
+                                                                           ],
+                                                                "_status":  "published",
+                                                                "id":  "68862cd31f508672f55e7ee6"
+                                                            },
+                                        "bg_style":  "default",
+                                        "id":  "6a19607950a233e464822d99",
+                                        "blockName":  "intro"
+                                    },
+                                    {
+                                        "blockType":  "commitment_block",
+                                        "title":  "Empowering Growth â?? For Employers and Job Seekers",
+                                        "description":  "At StriveTech Partners, we believe success begins with the right connection. We are a nationwide staffing and consulting firm that bridges the gap between top-tier organizations and skilled professionals â?? helping both achieve long-term success. Whether youâ??re a business seeking qualified talent or a professional looking for your next big opportunity, our team delivers personalized, transparent, and results-driven solutions that make an impact.",
+                                        "image_alignment":  "left",
+                                        "button_text":  "Know More",
+                                        "button_url":  "/contact-us",
+                                        "image":  {
+                                                      "createdAt":  "2026-05-29T09:53:43.835Z",
+                                                      "updatedAt":  "2026-05-29T09:53:43.836Z",
+                                                      "filename":  "multiracial-business-people-talking-and-having-a-b-2025-04-03-21-00-39-utc.jpg",
+                                                      "mimeType":  "image/jpeg",
+                                                      "filesize":  150002,
+                                                      "width":  1920,
+                                                      "height":  1280,
+                                                      "focalX":  50,
+                                                      "focalY":  50,
+                                                      "sizes":  {
+                                                                    "thumbnail":  {
+                                                                                      "width":  300,
+                                                                                      "height":  200,
+                                                                                      "mimeType":  "image/jpeg",
+                                                                                      "filesize":  12945,
+                                                                                      "filename":  "multiracial-business-people-talking-and-having-a-b-2025-04-03-21-00-39-utc-300x200.jpg",
+                                                                                      "url":  "/api/media/file/multiracial-business-people-talking-and-having-a-b-2025-04-03-21-00-39-utc-300x200.jpg"
+                                                                                  },
+                                                                    "square":  {
+                                                                                   "width":  500,
+                                                                                   "height":  500,
+                                                                                   "mimeType":  "image/jpeg",
+                                                                                   "filesize":  37860,
+                                                                                   "filename":  "multiracial-business-people-talking-and-having-a-b-2025-04-03-21-00-39-utc-500x500.jpg",
+                                                                                   "url":  "/api/media/file/multiracial-business-people-talking-and-having-a-b-2025-04-03-21-00-39-utc-500x500.jpg"
+                                                                               },
+                                                                    "small":  {
+                                                                                  "width":  600,
+                                                                                  "height":  400,
+                                                                                  "mimeType":  "image/jpeg",
+                                                                                  "filesize":  38812,
+                                                                                  "filename":  "multiracial-business-people-talking-and-having-a-b-2025-04-03-21-00-39-utc-600x400.jpg",
+                                                                                  "url":  "/api/media/file/multiracial-business-people-talking-and-having-a-b-2025-04-03-21-00-39-utc-600x400.jpg"
+                                                                              },
+                                                                    "medium":  {
+                                                                                   "width":  900,
+                                                                                   "height":  600,
+                                                                                   "mimeType":  "image/jpeg",
+                                                                                   "filesize":  74337,
+                                                                                   "filename":  "multiracial-business-people-talking-and-having-a-b-2025-04-03-21-00-39-utc-900x600.jpg",
+                                                                                   "url":  "/api/media/file/multiracial-business-people-talking-and-having-a-b-2025-04-03-21-00-39-utc-900x600.jpg"
+                                                                               },
+                                                                    "large":  {
+                                                                                  "width":  1400,
+                                                                                  "height":  933,
+                                                                                  "mimeType":  "image/jpeg",
+                                                                                  "filesize":  151717,
+                                                                                  "filename":  "multiracial-business-people-talking-and-having-a-b-2025-04-03-21-00-39-utc-1400x933.jpg",
+                                                                                  "url":  "/api/media/file/multiracial-business-people-talking-and-having-a-b-2025-04-03-21-00-39-utc-1400x933.jpg"
+                                                                              },
+                                                                    "xlarge":  {
+                                                                                   "width":  1920,
+                                                                                   "height":  1280,
+                                                                                   "mimeType":  "image/jpeg",
+                                                                                   "filesize":  180120,
+                                                                                   "filename":  "multiracial-business-people-talking-and-having-a-b-2025-04-03-21-00-39-utc-1920x1280.jpg",
+                                                                                   "url":  "/api/media/file/multiracial-business-people-talking-and-having-a-b-2025-04-03-21-00-39-utc-1920x1280.jpg"
+                                                                               },
+                                                                    "og":  {
+                                                                               "width":  1200,
+                                                                               "height":  630,
+                                                                               "mimeType":  "image/jpeg",
+                                                                               "filesize":  101800,
+                                                                               "filename":  "multiracial-business-people-talking-and-having-a-b-2025-04-03-21-00-39-utc-1200x630.jpg",
+                                                                               "url":  "/api/media/file/multiracial-business-people-talking-and-having-a-b-2025-04-03-21-00-39-utc-1200x630.jpg"
+                                                                           }
+                                                                },
+                                                      "id":  "6a19622795b10712f9474a05",
+                                                      "url":  "/api/media/file/multiracial-business-people-talking-and-having-a-b-2025-04-03-21-00-39-utc.jpg",
+                                                      "thumbnailURL":  "/api/media/file/multiracial-business-people-talking-and-having-a-b-2025-04-03-21-00-39-utc-300x200.jpg"
+                                                  },
+                                        "id":  "6a1961f350a233e464822d9b",
+                                        "blockName":  "about"
+                                    },
+                                    {
+                                        "blockType":  "staffing_services_block",
+                                        "badge":  "For Employers",
+                                        "title":  "Building Teams That Drive Success",
+                                        "description":  "In todayâ??s fast-paced business environment, the right talent makes all the difference. StriveTech Partners helps you identify, hire, and retain professionals who align with your companyâ??s goals, culture, and growth strategy. We go beyond filling positions â?? we deliver workforce solutions that strengthen your organizationâ??s performance and scalability.",
+                                        "services_title":  "Staffing Services",
+                                        "services":  [
+                                                         {
+                                                             "icon":  {
+                                                                          "createdAt":  "2026-05-29T10:06:31.909Z",
+                                                                          "updatedAt":  "2026-05-29T10:06:31.909Z",
+                                                                          "filename":  "hire.png",
+                                                                          "mimeType":  "image/png",
+                                                                          "filesize":  16380,
+                                                                          "width":  256,
+                                                                          "height":  256,
+                                                                          "focalX":  50,
+                                                                          "focalY":  50,
+                                                                          "sizes":  {
+                                                                                        "thumbnail":  {
+                                                                                                          "width":  null,
+                                                                                                          "height":  null,
+                                                                                                          "mimeType":  null,
+                                                                                                          "filesize":  null,
+                                                                                                          "filename":  null,
+                                                                                                          "url":  null
+                                                                                                      },
+                                                                                        "square":  {
+                                                                                                       "width":  null,
+                                                                                                       "height":  null,
+                                                                                                       "mimeType":  null,
+                                                                                                       "filesize":  null,
+                                                                                                       "filename":  null,
+                                                                                                       "url":  null
+                                                                                                   },
+                                                                                        "small":  {
+                                                                                                      "width":  null,
+                                                                                                      "height":  null,
+                                                                                                      "mimeType":  null,
+                                                                                                      "filesize":  null,
+                                                                                                      "filename":  null,
+                                                                                                      "url":  null
+                                                                                                  },
+                                                                                        "medium":  {
+                                                                                                       "width":  null,
+                                                                                                       "height":  null,
+                                                                                                       "mimeType":  null,
+                                                                                                       "filesize":  null,
+                                                                                                       "filename":  null,
+                                                                                                       "url":  null
+                                                                                                   },
+                                                                                        "large":  {
+                                                                                                      "width":  null,
+                                                                                                      "height":  null,
+                                                                                                      "mimeType":  null,
+                                                                                                      "filesize":  null,
+                                                                                                      "filename":  null,
+                                                                                                      "url":  null
+                                                                                                  },
+                                                                                        "xlarge":  {
+                                                                                                       "width":  null,
+                                                                                                       "height":  null,
+                                                                                                       "mimeType":  null,
+                                                                                                       "filesize":  null,
+                                                                                                       "filename":  null,
+                                                                                                       "url":  null
+                                                                                                   },
+                                                                                        "og":  {
+                                                                                                   "width":  null,
+                                                                                                   "height":  null,
+                                                                                                   "mimeType":  null,
+                                                                                                   "filesize":  null,
+                                                                                                   "filename":  null,
+                                                                                                   "url":  null
+                                                                                               }
+                                                                                    },
+                                                                          "id":  "6a19652795b10712f9475166",
+                                                                          "url":  "/api/media/file/hire.png",
+                                                                          "thumbnailURL":  null
+                                                                      },
+                                                             "title":  "Direct Hire (Full-Time Placements)",
+                                                             "description":  "Find the right permanent employees who bring long-term value",
+                                                             "id":  "6a19650c50a233e464822da1"
+                                                         },
+                                                         {
+                                                             "icon":  {
+                                                                          "createdAt":  "2026-05-29T10:13:16.309Z",
+                                                                          "updatedAt":  "2026-05-29T10:13:16.309Z",
+                                                                          "filename":  "customer-service.png",
+                                                                          "mimeType":  "image/png",
+                                                                          "filesize":  17559,
+                                                                          "width":  256,
+                                                                          "height":  256,
+                                                                          "focalX":  50,
+                                                                          "focalY":  50,
+                                                                          "sizes":  {
+                                                                                        "thumbnail":  {
+                                                                                                          "width":  null,
+                                                                                                          "height":  null,
+                                                                                                          "mimeType":  null,
+                                                                                                          "filesize":  null,
+                                                                                                          "filename":  null,
+                                                                                                          "url":  null
+                                                                                                      },
+                                                                                        "square":  {
+                                                                                                       "width":  null,
+                                                                                                       "height":  null,
+                                                                                                       "mimeType":  null,
+                                                                                                       "filesize":  null,
+                                                                                                       "filename":  null,
+                                                                                                       "url":  null
+                                                                                                   },
+                                                                                        "small":  {
+                                                                                                      "width":  null,
+                                                                                                      "height":  null,
+                                                                                                      "mimeType":  null,
+                                                                                                      "filesize":  null,
+                                                                                                      "filename":  null,
+                                                                                                      "url":  null
+                                                                                                  },
+                                                                                        "medium":  {
+                                                                                                       "width":  null,
+                                                                                                       "height":  null,
+                                                                                                       "mimeType":  null,
+                                                                                                       "filesize":  null,
+                                                                                                       "filename":  null,
+                                                                                                       "url":  null
+                                                                                                   },
+                                                                                        "large":  {
+                                                                                                      "width":  null,
+                                                                                                      "height":  null,
+                                                                                                      "mimeType":  null,
+                                                                                                      "filesize":  null,
+                                                                                                      "filename":  null,
+                                                                                                      "url":  null
+                                                                                                  },
+                                                                                        "xlarge":  {
+                                                                                                       "width":  null,
+                                                                                                       "height":  null,
+                                                                                                       "mimeType":  null,
+                                                                                                       "filesize":  null,
+                                                                                                       "filename":  null,
+                                                                                                       "url":  null
+                                                                                                   },
+                                                                                        "og":  {
+                                                                                                   "width":  null,
+                                                                                                   "height":  null,
+                                                                                                   "mimeType":  null,
+                                                                                                   "filesize":  null,
+                                                                                                   "filename":  null,
+                                                                                                   "url":  null
+                                                                                               }
+                                                                                    },
+                                                                          "id":  "6a1966bc95b10712f94754f5",
+                                                                          "url":  "/api/media/file/customer-service.png",
+                                                                          "thumbnailURL":  null
+                                                                      },
+                                                             "title":  "Contract-to-Hire \u0026 Consulting Services",
+                                                             "description":  "Flexible staffing solutions that allow you to evaluate candidates before extending full-time offers.",
+                                                             "id":  "6a19669550a233e464822da9"
+                                                         },
+                                                         {
+                                                             "icon":  {
+                                                                          "createdAt":  "2026-05-29T10:14:23.432Z",
+                                                                          "updatedAt":  "2026-05-29T10:14:23.432Z",
+                                                                          "filename":  "information-technology.png",
+                                                                          "mimeType":  "image/png",
+                                                                          "filesize":  17389,
+                                                                          "width":  256,
+                                                                          "height":  256,
+                                                                          "focalX":  50,
+                                                                          "focalY":  50,
+                                                                          "sizes":  {
+                                                                                        "thumbnail":  {
+                                                                                                          "width":  null,
+                                                                                                          "height":  null,
+                                                                                                          "mimeType":  null,
+                                                                                                          "filesize":  null,
+                                                                                                          "filename":  null,
+                                                                                                          "url":  null
+                                                                                                      },
+                                                                                        "square":  {
+                                                                                                       "width":  null,
+                                                                                                       "height":  null,
+                                                                                                       "mimeType":  null,
+                                                                                                       "filesize":  null,
+                                                                                                       "filename":  null,
+                                                                                                       "url":  null
+                                                                                                   },
+                                                                                        "small":  {
+                                                                                                      "width":  null,
+                                                                                                      "height":  null,
+                                                                                                      "mimeType":  null,
+                                                                                                      "filesize":  null,
+                                                                                                      "filename":  null,
+                                                                                                      "url":  null
+                                                                                                  },
+                                                                                        "medium":  {
+                                                                                                       "width":  null,
+                                                                                                       "height":  null,
+                                                                                                       "mimeType":  null,
+                                                                                                       "filesize":  null,
+                                                                                                       "filename":  null,
+                                                                                                       "url":  null
+                                                                                                   },
+                                                                                        "large":  {
+                                                                                                      "width":  null,
+                                                                                                      "height":  null,
+                                                                                                      "mimeType":  null,
+                                                                                                      "filesize":  null,
+                                                                                                      "filename":  null,
+                                                                                                      "url":  null
+                                                                                                  },
+                                                                                        "xlarge":  {
+                                                                                                       "width":  null,
+                                                                                                       "height":  null,
+                                                                                                       "mimeType":  null,
+                                                                                                       "filesize":  null,
+                                                                                                       "filename":  null,
+                                                                                                       "url":  null
+                                                                                                   },
+                                                                                        "og":  {
+                                                                                                   "width":  null,
+                                                                                                   "height":  null,
+                                                                                                   "mimeType":  null,
+                                                                                                   "filesize":  null,
+                                                                                                   "filename":  null,
+                                                                                                   "url":  null
+                                                                                               }
+                                                                                    },
+                                                                          "id":  "6a1966ff95b10712f9475528",
+                                                                          "url":  "/api/media/file/information-technology.png",
+                                                                          "thumbnailURL":  null
+                                                                      },
+                                                             "title":  "IT \u0026 Professional Staffing",
+                                                             "description":  "From software developers to finance, healthcare, and engineering professionals â?? we source top talent across multiple industries.",
+                                                             "id":  "6a1966ef50a233e464822dab"
+                                                         },
+                                                         {
+                                                             "icon":  {
+                                                                          "createdAt":  "2026-05-29T10:14:43.953Z",
+                                                                          "updatedAt":  "2026-05-29T10:14:43.953Z",
+                                                                          "filename":  "development.png",
+                                                                          "mimeType":  "image/png",
+                                                                          "filesize":  18261,
+                                                                          "width":  256,
+                                                                          "height":  256,
+                                                                          "focalX":  50,
+                                                                          "focalY":  50,
+                                                                          "sizes":  {
+                                                                                        "thumbnail":  {
+                                                                                                          "width":  null,
+                                                                                                          "height":  null,
+                                                                                                          "mimeType":  null,
+                                                                                                          "filesize":  null,
+                                                                                                          "filename":  null,
+                                                                                                          "url":  null
+                                                                                                      },
+                                                                                        "square":  {
+                                                                                                       "width":  null,
+                                                                                                       "height":  null,
+                                                                                                       "mimeType":  null,
+                                                                                                       "filesize":  null,
+                                                                                                       "filename":  null,
+                                                                                                       "url":  null
+                                                                                                   },
+                                                                                        "small":  {
+                                                                                                      "width":  null,
+                                                                                                      "height":  null,
+                                                                                                      "mimeType":  null,
+                                                                                                      "filesize":  null,
+                                                                                                      "filename":  null,
+                                                                                                      "url":  null
+                                                                                                  },
+                                                                                        "medium":  {
+                                                                                                       "width":  null,
+                                                                                                       "height":  null,
+                                                                                                       "mimeType":  null,
+                                                                                                       "filesize":  null,
+                                                                                                       "filename":  null,
+                                                                                                       "url":  null
+                                                                                                   },
+                                                                                        "large":  {
+                                                                                                      "width":  null,
+                                                                                                      "height":  null,
+                                                                                                      "mimeType":  null,
+                                                                                                      "filesize":  null,
+                                                                                                      "filename":  null,
+                                                                                                      "url":  null
+                                                                                                  },
+                                                                                        "xlarge":  {
+                                                                                                       "width":  null,
+                                                                                                       "height":  null,
+                                                                                                       "mimeType":  null,
+                                                                                                       "filesize":  null,
+                                                                                                       "filename":  null,
+                                                                                                       "url":  null
+                                                                                                   },
+                                                                                        "og":  {
+                                                                                                   "width":  null,
+                                                                                                   "height":  null,
+                                                                                                   "mimeType":  null,
+                                                                                                   "filesize":  null,
+                                                                                                   "filename":  null,
+                                                                                                   "url":  null
+                                                                                               }
+                                                                                    },
+                                                                          "id":  "6a19671395b10712f947555f",
+                                                                          "url":  "/api/media/file/development.png",
+                                                                          "thumbnailURL":  null
+                                                                      },
+                                                             "title":  "Workforce Management \u0026 Project Solutions",
+                                                             "description":  "Comprehensive workforce planning, onboarding, and managed services to keep your operations efficient and compliant.",
+                                                             "id":  "6a19670250a233e464822dad"
+                                                         }
+                                                     ],
+                                        "id":  "6a1964e250a233e464822d9f",
+                                        "blockName":  "services"
+                                    },
+                                    {
+                                        "blockType":  "it_services_block",
+                                        "title":  "IT Services",
+                                        "services":  [
+                                                         {
+                                                             "icon":  {
+                                                                          "createdAt":  "2026-05-29T10:24:12.432Z",
+                                                                          "updatedAt":  "2026-05-29T10:24:12.433Z",
+                                                                          "filename":  "pic-6.png",
+                                                                          "mimeType":  "image/png",
+                                                                          "filesize":  7968,
+                                                                          "width":  491,
+                                                                          "height":  491,
+                                                                          "focalX":  50,
+                                                                          "focalY":  50,
+                                                                          "sizes":  {
+                                                                                        "thumbnail":  {
+                                                                                                          "width":  300,
+                                                                                                          "height":  300,
+                                                                                                          "mimeType":  "image/png",
+                                                                                                          "filesize":  11758,
+                                                                                                          "filename":  "pic-6-300x300.png",
+                                                                                                          "url":  "/api/media/file/pic-6-300x300.png"
+                                                                                                      },
+                                                                                        "square":  {
+                                                                                                       "width":  null,
+                                                                                                       "height":  null,
+                                                                                                       "mimeType":  null,
+                                                                                                       "filesize":  null,
+                                                                                                       "filename":  null,
+                                                                                                       "url":  null
+                                                                                                   },
+                                                                                        "small":  {
+                                                                                                      "width":  null,
+                                                                                                      "height":  null,
+                                                                                                      "mimeType":  null,
+                                                                                                      "filesize":  null,
+                                                                                                      "filename":  null,
+                                                                                                      "url":  null
+                                                                                                  },
+                                                                                        "medium":  {
+                                                                                                       "width":  null,
+                                                                                                       "height":  null,
+                                                                                                       "mimeType":  null,
+                                                                                                       "filesize":  null,
+                                                                                                       "filename":  null,
+                                                                                                       "url":  null
+                                                                                                   },
+                                                                                        "large":  {
+                                                                                                      "width":  null,
+                                                                                                      "height":  null,
+                                                                                                      "mimeType":  null,
+                                                                                                      "filesize":  null,
+                                                                                                      "filename":  null,
+                                                                                                      "url":  null
+                                                                                                  },
+                                                                                        "xlarge":  {
+                                                                                                       "width":  null,
+                                                                                                       "height":  null,
+                                                                                                       "mimeType":  null,
+                                                                                                       "filesize":  null,
+                                                                                                       "filename":  null,
+                                                                                                       "url":  null
+                                                                                                   },
+                                                                                        "og":  {
+                                                                                                   "width":  null,
+                                                                                                   "height":  null,
+                                                                                                   "mimeType":  null,
+                                                                                                   "filesize":  null,
+                                                                                                   "filename":  null,
+                                                                                                   "url":  null
+                                                                                               }
+                                                                                    },
+                                                                          "id":  "6a19694c95b10712f9475bf9",
+                                                                          "url":  "/api/media/file/pic-6.png",
+                                                                          "thumbnailURL":  "/api/media/file/pic-6-300x300.png"
+                                                                      },
+                                                             "title":  "Consulting Solutions:",
+                                                             "description":  "Our consulting team provides strategic guidance to improve your hiring process, optimize your workforce, and create efficient talent pipelines that support sustainable business growth.",
+                                                             "id":  "6a19692150a233e464822db5"
+                                                         },
+                                                         {
+                                                             "icon":  {
+                                                                          "createdAt":  "2026-05-29T10:29:11.325Z",
+                                                                          "updatedAt":  "2026-05-29T10:29:11.325Z",
+                                                                          "filename":  "pic-8.png",
+                                                                          "mimeType":  "image/png",
+                                                                          "filesize":  3697,
+                                                                          "width":  491,
+                                                                          "height":  491,
+                                                                          "focalX":  50,
+                                                                          "focalY":  50,
+                                                                          "sizes":  {
+                                                                                        "thumbnail":  {
+                                                                                                          "width":  300,
+                                                                                                          "height":  300,
+                                                                                                          "mimeType":  "image/png",
+                                                                                                          "filesize":  9067,
+                                                                                                          "filename":  "pic-8-300x300.png",
+                                                                                                          "url":  "/api/media/file/pic-8-300x300.png"
+                                                                                                      },
+                                                                                        "square":  {
+                                                                                                       "width":  null,
+                                                                                                       "height":  null,
+                                                                                                       "mimeType":  null,
+                                                                                                       "filesize":  null,
+                                                                                                       "filename":  null,
+                                                                                                       "url":  null
+                                                                                                   },
+                                                                                        "small":  {
+                                                                                                      "width":  null,
+                                                                                                      "height":  null,
+                                                                                                      "mimeType":  null,
+                                                                                                      "filesize":  null,
+                                                                                                      "filename":  null,
+                                                                                                      "url":  null
+                                                                                                  },
+                                                                                        "medium":  {
+                                                                                                       "width":  null,
+                                                                                                       "height":  null,
+                                                                                                       "mimeType":  null,
+                                                                                                       "filesize":  null,
+                                                                                                       "filename":  null,
+                                                                                                       "url":  null
+                                                                                                   },
+                                                                                        "large":  {
+                                                                                                      "width":  null,
+                                                                                                      "height":  null,
+                                                                                                      "mimeType":  null,
+                                                                                                      "filesize":  null,
+                                                                                                      "filename":  null,
+                                                                                                      "url":  null
+                                                                                                  },
+                                                                                        "xlarge":  {
+                                                                                                       "width":  null,
+                                                                                                       "height":  null,
+                                                                                                       "mimeType":  null,
+                                                                                                       "filesize":  null,
+                                                                                                       "filename":  null,
+                                                                                                       "url":  null
+                                                                                                   },
+                                                                                        "og":  {
+                                                                                                   "width":  null,
+                                                                                                   "height":  null,
+                                                                                                   "mimeType":  null,
+                                                                                                   "filesize":  null,
+                                                                                                   "filename":  null,
+                                                                                                   "url":  null
+                                                                                               }
+                                                                                    },
+                                                                          "id":  "6a196a7795b10712f9475eca",
+                                                                          "url":  "/api/media/file/pic-8.png",
+                                                                          "thumbnailURL":  "/api/media/file/pic-8-300x300.png"
+                                                                      },
+                                                             "title":  "Digital Marketing Services",
+                                                             "description":  "We help businesses build a strong online presence through targeted digital marketing strategies, including SEO, SEM, social media management, branding, and performance-driven campaigns.",
+                                                             "id":  "6a196a4650a233e464822db9"
+                                                         },
+                                                         {
+                                                             "icon":  {
+                                                                          "createdAt":  "2026-05-29T10:29:24.333Z",
+                                                                          "updatedAt":  "2026-05-29T10:29:24.333Z",
+                                                                          "filename":  "pic-9.png",
+                                                                          "mimeType":  "image/png",
+                                                                          "filesize":  4502,
+                                                                          "width":  491,
+                                                                          "height":  491,
+                                                                          "focalX":  50,
+                                                                          "focalY":  50,
+                                                                          "sizes":  {
+                                                                                        "thumbnail":  {
+                                                                                                          "width":  300,
+                                                                                                          "height":  300,
+                                                                                                          "mimeType":  "image/png",
+                                                                                                          "filesize":  12153,
+                                                                                                          "filename":  "pic-9-300x300.png",
+                                                                                                          "url":  "/api/media/file/pic-9-300x300.png"
+                                                                                                      },
+                                                                                        "square":  {
+                                                                                                       "width":  null,
+                                                                                                       "height":  null,
+                                                                                                       "mimeType":  null,
+                                                                                                       "filesize":  null,
+                                                                                                       "filename":  null,
+                                                                                                       "url":  null
+                                                                                                   },
+                                                                                        "small":  {
+                                                                                                      "width":  null,
+                                                                                                      "height":  null,
+                                                                                                      "mimeType":  null,
+                                                                                                      "filesize":  null,
+                                                                                                      "filename":  null,
+                                                                                                      "url":  null
+                                                                                                  },
+                                                                                        "medium":  {
+                                                                                                       "width":  null,
+                                                                                                       "height":  null,
+                                                                                                       "mimeType":  null,
+                                                                                                       "filesize":  null,
+                                                                                                       "filename":  null,
+                                                                                                       "url":  null
+                                                                                                   },
+                                                                                        "large":  {
+                                                                                                      "width":  null,
+                                                                                                      "height":  null,
+                                                                                                      "mimeType":  null,
+                                                                                                      "filesize":  null,
+                                                                                                      "filename":  null,
+                                                                                                      "url":  null
+                                                                                                  },
+                                                                                        "xlarge":  {
+                                                                                                       "width":  null,
+                                                                                                       "height":  null,
+                                                                                                       "mimeType":  null,
+                                                                                                       "filesize":  null,
+                                                                                                       "filename":  null,
+                                                                                                       "url":  null
+                                                                                                   },
+                                                                                        "og":  {
+                                                                                                   "width":  null,
+                                                                                                   "height":  null,
+                                                                                                   "mimeType":  null,
+                                                                                                   "filesize":  null,
+                                                                                                   "filename":  null,
+                                                                                                   "url":  null
+                                                                                               }
+                                                                                    },
+                                                                          "id":  "6a196a8495b10712f9475ee9",
+                                                                          "url":  "/api/media/file/pic-9.png",
+                                                                          "thumbnailURL":  "/api/media/file/pic-9-300x300.png"
+                                                                      },
+                                                             "title":  "Web Development",
+                                                             "description":  "From portfolio sites to full business platforms, we create customized, responsive, and user-friendly websites designed to enhance visibility and deliver seamless digital experiences.",
+                                                             "id":  "6a196a5050a233e464822dbb"
+                                                         },
+                                                         {
+                                                             "icon":  {
+                                                                          "createdAt":  "2026-05-29T10:29:34.234Z",
+                                                                          "updatedAt":  "2026-05-29T10:29:34.234Z",
+                                                                          "filename":  "pic-7.png",
+                                                                          "mimeType":  "image/png",
+                                                                          "filesize":  5516,
+                                                                          "width":  491,
+                                                                          "height":  491,
+                                                                          "focalX":  50,
+                                                                          "focalY":  50,
+                                                                          "sizes":  {
+                                                                                        "thumbnail":  {
+                                                                                                          "width":  300,
+                                                                                                          "height":  300,
+                                                                                                          "mimeType":  "image/png",
+                                                                                                          "filesize":  13099,
+                                                                                                          "filename":  "pic-7-300x300.png",
+                                                                                                          "url":  "/api/media/file/pic-7-300x300.png"
+                                                                                                      },
+                                                                                        "square":  {
+                                                                                                       "width":  null,
+                                                                                                       "height":  null,
+                                                                                                       "mimeType":  null,
+                                                                                                       "filesize":  null,
+                                                                                                       "filename":  null,
+                                                                                                       "url":  null
+                                                                                                   },
+                                                                                        "small":  {
+                                                                                                      "width":  null,
+                                                                                                      "height":  null,
+                                                                                                      "mimeType":  null,
+                                                                                                      "filesize":  null,
+                                                                                                      "filename":  null,
+                                                                                                      "url":  null
+                                                                                                  },
+                                                                                        "medium":  {
+                                                                                                       "width":  null,
+                                                                                                       "height":  null,
+                                                                                                       "mimeType":  null,
+                                                                                                       "filesize":  null,
+                                                                                                       "filename":  null,
+                                                                                                       "url":  null
+                                                                                                   },
+                                                                                        "large":  {
+                                                                                                      "width":  null,
+                                                                                                      "height":  null,
+                                                                                                      "mimeType":  null,
+                                                                                                      "filesize":  null,
+                                                                                                      "filename":  null,
+                                                                                                      "url":  null
+                                                                                                  },
+                                                                                        "xlarge":  {
+                                                                                                       "width":  null,
+                                                                                                       "height":  null,
+                                                                                                       "mimeType":  null,
+                                                                                                       "filesize":  null,
+                                                                                                       "filename":  null,
+                                                                                                       "url":  null
+                                                                                                   },
+                                                                                        "og":  {
+                                                                                                   "width":  null,
+                                                                                                   "height":  null,
+                                                                                                   "mimeType":  null,
+                                                                                                   "filesize":  null,
+                                                                                                   "filename":  null,
+                                                                                                   "url":  null
+                                                                                               }
+                                                                                    },
+                                                                          "id":  "6a196a8e95b10712f9475f08",
+                                                                          "url":  "/api/media/file/pic-7.png",
+                                                                          "thumbnailURL":  "/api/media/file/pic-7-300x300.png"
+                                                                      },
+                                                             "title":  "Software Development",
+                                                             "description":  "We develop scalable and secure software solutions tailored to your operational needs â?? delivering efficiency, automation, and long-term value for your business.",
+                                                             "id":  "6a196a5b50a233e464822dbd"
+                                                         }
+                                                     ],
+                                        "id":  "6a19691850a233e464822db3",
+                                        "blockName":  "it services"
+                                    },
+                                    {
+                                        "blockType":  "industries_block",
+                                        "title":  "Industries We Serve",
+                                        "industries":  [
+                                                           {
+                                                               "icon":  {
+                                                                            "createdAt":  "2026-05-29T10:45:06.492Z",
+                                                                            "updatedAt":  "2026-05-29T10:45:06.493Z",
+                                                                            "filename":  "information-technology (1).png",
+                                                                            "mimeType":  "image/png",
+                                                                            "filesize":  7776,
+                                                                            "width":  256,
+                                                                            "height":  256,
+                                                                            "focalX":  50,
+                                                                            "focalY":  50,
+                                                                            "sizes":  {
+                                                                                          "thumbnail":  {
+                                                                                                            "width":  null,
+                                                                                                            "height":  null,
+                                                                                                            "mimeType":  null,
+                                                                                                            "filesize":  null,
+                                                                                                            "filename":  null,
+                                                                                                            "url":  null
+                                                                                                        },
+                                                                                          "square":  {
+                                                                                                         "width":  null,
+                                                                                                         "height":  null,
+                                                                                                         "mimeType":  null,
+                                                                                                         "filesize":  null,
+                                                                                                         "filename":  null,
+                                                                                                         "url":  null
+                                                                                                     },
+                                                                                          "small":  {
+                                                                                                        "width":  null,
+                                                                                                        "height":  null,
+                                                                                                        "mimeType":  null,
+                                                                                                        "filesize":  null,
+                                                                                                        "filename":  null,
+                                                                                                        "url":  null
+                                                                                                    },
+                                                                                          "medium":  {
+                                                                                                         "width":  null,
+                                                                                                         "height":  null,
+                                                                                                         "mimeType":  null,
+                                                                                                         "filesize":  null,
+                                                                                                         "filename":  null,
+                                                                                                         "url":  null
+                                                                                                     },
+                                                                                          "large":  {
+                                                                                                        "width":  null,
+                                                                                                        "height":  null,
+                                                                                                        "mimeType":  null,
+                                                                                                        "filesize":  null,
+                                                                                                        "filename":  null,
+                                                                                                        "url":  null
+                                                                                                    },
+                                                                                          "xlarge":  {
+                                                                                                         "width":  null,
+                                                                                                         "height":  null,
+                                                                                                         "mimeType":  null,
+                                                                                                         "filesize":  null,
+                                                                                                         "filename":  null,
+                                                                                                         "url":  null
+                                                                                                     },
+                                                                                          "og":  {
+                                                                                                     "width":  null,
+                                                                                                     "height":  null,
+                                                                                                     "mimeType":  null,
+                                                                                                     "filesize":  null,
+                                                                                                     "filename":  null,
+                                                                                                     "url":  null
+                                                                                                 }
+                                                                                      },
+                                                                            "id":  "6a196e3208c18aa57a77269e",
+                                                                            "url":  "/api/media/file/information-technology%20(1).png",
+                                                                            "thumbnailURL":  null
+                                                                        },
+                                                               "title":  "Information Technology \u0026 Cloud Solutions",
+                                                               "id":  "6a196c84b2cd17dd2be3894e"
+                                                           },
+                                                           {
+                                                               "icon":  {
+                                                                            "createdAt":  "2026-05-29T10:49:34.938Z",
+                                                                            "updatedAt":  "2026-05-29T10:49:34.938Z",
+                                                                            "filename":  "mobile-banking.png",
+                                                                            "mimeType":  "image/png",
+                                                                            "filesize":  6931,
+                                                                            "width":  256,
+                                                                            "height":  256,
+                                                                            "focalX":  50,
+                                                                            "focalY":  50,
+                                                                            "sizes":  {
+                                                                                          "thumbnail":  {
+                                                                                                            "width":  null,
+                                                                                                            "height":  null,
+                                                                                                            "mimeType":  null,
+                                                                                                            "filesize":  null,
+                                                                                                            "filename":  null,
+                                                                                                            "url":  null
+                                                                                                        },
+                                                                                          "square":  {
+                                                                                                         "width":  null,
+                                                                                                         "height":  null,
+                                                                                                         "mimeType":  null,
+                                                                                                         "filesize":  null,
+                                                                                                         "filename":  null,
+                                                                                                         "url":  null
+                                                                                                     },
+                                                                                          "small":  {
+                                                                                                        "width":  null,
+                                                                                                        "height":  null,
+                                                                                                        "mimeType":  null,
+                                                                                                        "filesize":  null,
+                                                                                                        "filename":  null,
+                                                                                                        "url":  null
+                                                                                                    },
+                                                                                          "medium":  {
+                                                                                                         "width":  null,
+                                                                                                         "height":  null,
+                                                                                                         "mimeType":  null,
+                                                                                                         "filesize":  null,
+                                                                                                         "filename":  null,
+                                                                                                         "url":  null
+                                                                                                     },
+                                                                                          "large":  {
+                                                                                                        "width":  null,
+                                                                                                        "height":  null,
+                                                                                                        "mimeType":  null,
+                                                                                                        "filesize":  null,
+                                                                                                        "filename":  null,
+                                                                                                        "url":  null
+                                                                                                    },
+                                                                                          "xlarge":  {
+                                                                                                         "width":  null,
+                                                                                                         "height":  null,
+                                                                                                         "mimeType":  null,
+                                                                                                         "filesize":  null,
+                                                                                                         "filename":  null,
+                                                                                                         "url":  null
+                                                                                                     },
+                                                                                          "og":  {
+                                                                                                     "width":  null,
+                                                                                                     "height":  null,
+                                                                                                     "mimeType":  null,
+                                                                                                     "filesize":  null,
+                                                                                                     "filename":  null,
+                                                                                                     "url":  null
+                                                                                                 }
+                                                                                      },
+                                                                            "id":  "6a196f3e08c18aa57a772715",
+                                                                            "url":  "/api/media/file/mobile-banking.png",
+                                                                            "thumbnailURL":  null
+                                                                        },
+                                                               "title":  "Financial Services \u0026 Banking",
+                                                               "id":  "6a196c8fb2cd17dd2be38950"
+                                                           },
+                                                           {
+                                                               "icon":  {
+                                                                            "createdAt":  "2026-05-29T10:49:44.334Z",
+                                                                            "updatedAt":  "2026-05-29T10:49:44.334Z",
+                                                                            "filename":  "education.png",
+                                                                            "mimeType":  "image/png",
+                                                                            "filesize":  10167,
+                                                                            "width":  256,
+                                                                            "height":  256,
+                                                                            "focalX":  50,
+                                                                            "focalY":  50,
+                                                                            "sizes":  {
+                                                                                          "thumbnail":  {
+                                                                                                            "width":  null,
+                                                                                                            "height":  null,
+                                                                                                            "mimeType":  null,
+                                                                                                            "filesize":  null,
+                                                                                                            "filename":  null,
+                                                                                                            "url":  null
+                                                                                                        },
+                                                                                          "square":  {
+                                                                                                         "width":  null,
+                                                                                                         "height":  null,
+                                                                                                         "mimeType":  null,
+                                                                                                         "filesize":  null,
+                                                                                                         "filename":  null,
+                                                                                                         "url":  null
+                                                                                                     },
+                                                                                          "small":  {
+                                                                                                        "width":  null,
+                                                                                                        "height":  null,
+                                                                                                        "mimeType":  null,
+                                                                                                        "filesize":  null,
+                                                                                                        "filename":  null,
+                                                                                                        "url":  null
+                                                                                                    },
+                                                                                          "medium":  {
+                                                                                                         "width":  null,
+                                                                                                         "height":  null,
+                                                                                                         "mimeType":  null,
+                                                                                                         "filesize":  null,
+                                                                                                         "filename":  null,
+                                                                                                         "url":  null
+                                                                                                     },
+                                                                                          "large":  {
+                                                                                                        "width":  null,
+                                                                                                        "height":  null,
+                                                                                                        "mimeType":  null,
+                                                                                                        "filesize":  null,
+                                                                                                        "filename":  null,
+                                                                                                        "url":  null
+                                                                                                    },
+                                                                                          "xlarge":  {
+                                                                                                         "width":  null,
+                                                                                                         "height":  null,
+                                                                                                         "mimeType":  null,
+                                                                                                         "filesize":  null,
+                                                                                                         "filename":  null,
+                                                                                                         "url":  null
+                                                                                                     },
+                                                                                          "og":  {
+                                                                                                     "width":  null,
+                                                                                                     "height":  null,
+                                                                                                     "mimeType":  null,
+                                                                                                     "filesize":  null,
+                                                                                                     "filename":  null,
+                                                                                                     "url":  null
+                                                                                                 }
+                                                                                      },
+                                                                            "id":  "6a196f4808c18aa57a772735",
+                                                                            "url":  "/api/media/file/education.png",
+                                                                            "thumbnailURL":  null
+                                                                        },
+                                                               "title":  "Retail, Education, and Professional Services",
+                                                               "id":  "6a196c93b2cd17dd2be38952"
+                                                           },
+                                                           {
+                                                               "icon":  {
+                                                                            "createdAt":  "2026-05-29T10:49:52.372Z",
+                                                                            "updatedAt":  "2026-05-29T10:49:52.372Z",
+                                                                            "filename":  "automotive.png",
+                                                                            "mimeType":  "image/png",
+                                                                            "filesize":  7637,
+                                                                            "width":  256,
+                                                                            "height":  256,
+                                                                            "focalX":  50,
+                                                                            "focalY":  50,
+                                                                            "sizes":  {
+                                                                                          "thumbnail":  {
+                                                                                                            "width":  null,
+                                                                                                            "height":  null,
+                                                                                                            "mimeType":  null,
+                                                                                                            "filesize":  null,
+                                                                                                            "filename":  null,
+                                                                                                            "url":  null
+                                                                                                        },
+                                                                                          "square":  {
+                                                                                                         "width":  null,
+                                                                                                         "height":  null,
+                                                                                                         "mimeType":  null,
+                                                                                                         "filesize":  null,
+                                                                                                         "filename":  null,
+                                                                                                         "url":  null
+                                                                                                     },
+                                                                                          "small":  {
+                                                                                                        "width":  null,
+                                                                                                        "height":  null,
+                                                                                                        "mimeType":  null,
+                                                                                                        "filesize":  null,
+                                                                                                        "filename":  null,
+                                                                                                        "url":  null
+                                                                                                    },
+                                                                                          "medium":  {
+                                                                                                         "width":  null,
+                                                                                                         "height":  null,
+                                                                                                         "mimeType":  null,
+                                                                                                         "filesize":  null,
+                                                                                                         "filename":  null,
+                                                                                                         "url":  null
+                                                                                                     },
+                                                                                          "large":  {
+                                                                                                        "width":  null,
+                                                                                                        "height":  null,
+                                                                                                        "mimeType":  null,
+                                                                                                        "filesize":  null,
+                                                                                                        "filename":  null,
+                                                                                                        "url":  null
+                                                                                                    },
+                                                                                          "xlarge":  {
+                                                                                                         "width":  null,
+                                                                                                         "height":  null,
+                                                                                                         "mimeType":  null,
+                                                                                                         "filesize":  null,
+                                                                                                         "filename":  null,
+                                                                                                         "url":  null
+                                                                                                     },
+                                                                                          "og":  {
+                                                                                                     "width":  null,
+                                                                                                     "height":  null,
+                                                                                                     "mimeType":  null,
+                                                                                                     "filesize":  null,
+                                                                                                     "filename":  null,
+                                                                                                     "url":  null
+                                                                                                 }
+                                                                                      },
+                                                                            "id":  "6a196f5008c18aa57a772753",
+                                                                            "url":  "/api/media/file/automotive.png",
+                                                                            "thumbnailURL":  null
+                                                                        },
+                                                               "title":  " Automotive \u0026 Manufacturing",
+                                                               "id":  "6a196c97b2cd17dd2be38954"
+                                                           },
+                                                           {
+                                                               "icon":  {
+                                                                            "createdAt":  "2026-05-29T10:50:01.780Z",
+                                                                            "updatedAt":  "2026-05-29T10:50:01.780Z",
+                                                                            "filename":  "energy-efficient.png",
+                                                                            "mimeType":  "image/png",
+                                                                            "filesize":  10926,
+                                                                            "width":  256,
+                                                                            "height":  256,
+                                                                            "focalX":  50,
+                                                                            "focalY":  50,
+                                                                            "sizes":  {
+                                                                                          "thumbnail":  {
+                                                                                                            "width":  null,
+                                                                                                            "height":  null,
+                                                                                                            "mimeType":  null,
+                                                                                                            "filesize":  null,
+                                                                                                            "filename":  null,
+                                                                                                            "url":  null
+                                                                                                        },
+                                                                                          "square":  {
+                                                                                                         "width":  null,
+                                                                                                         "height":  null,
+                                                                                                         "mimeType":  null,
+                                                                                                         "filesize":  null,
+                                                                                                         "filename":  null,
+                                                                                                         "url":  null
+                                                                                                     },
+                                                                                          "small":  {
+                                                                                                        "width":  null,
+                                                                                                        "height":  null,
+                                                                                                        "mimeType":  null,
+                                                                                                        "filesize":  null,
+                                                                                                        "filename":  null,
+                                                                                                        "url":  null
+                                                                                                    },
+                                                                                          "medium":  {
+                                                                                                         "width":  null,
+                                                                                                         "height":  null,
+                                                                                                         "mimeType":  null,
+                                                                                                         "filesize":  null,
+                                                                                                         "filename":  null,
+                                                                                                         "url":  null
+                                                                                                     },
+                                                                                          "large":  {
+                                                                                                        "width":  null,
+                                                                                                        "height":  null,
+                                                                                                        "mimeType":  null,
+                                                                                                        "filesize":  null,
+                                                                                                        "filename":  null,
+                                                                                                        "url":  null
+                                                                                                    },
+                                                                                          "xlarge":  {
+                                                                                                         "width":  null,
+                                                                                                         "height":  null,
+                                                                                                         "mimeType":  null,
+                                                                                                         "filesize":  null,
+                                                                                                         "filename":  null,
+                                                                                                         "url":  null
+                                                                                                     },
+                                                                                          "og":  {
+                                                                                                     "width":  null,
+                                                                                                     "height":  null,
+                                                                                                     "mimeType":  null,
+                                                                                                     "filesize":  null,
+                                                                                                     "filename":  null,
+                                                                                                     "url":  null
+                                                                                                 }
+                                                                                      },
+                                                                            "id":  "6a196f5908c18aa57a772772",
+                                                                            "url":  "/api/media/file/energy-efficient.png",
+                                                                            "thumbnailURL":  null
+                                                                        },
+                                                               "title":  "Energy \u0026 Utilities",
+                                                               "id":  "6a196c9eb2cd17dd2be38956"
+                                                           },
+                                                           {
+                                                               "icon":  {
+                                                                            "createdAt":  "2026-05-29T10:50:15.219Z",
+                                                                            "updatedAt":  "2026-05-29T10:50:15.219Z",
+                                                                            "filename":  "protection.png",
+                                                                            "mimeType":  "image/png",
+                                                                            "filesize":  7997,
+                                                                            "width":  256,
+                                                                            "height":  256,
+                                                                            "focalX":  50,
+                                                                            "focalY":  50,
+                                                                            "sizes":  {
+                                                                                          "thumbnail":  {
+                                                                                                            "width":  null,
+                                                                                                            "height":  null,
+                                                                                                            "mimeType":  null,
+                                                                                                            "filesize":  null,
+                                                                                                            "filename":  null,
+                                                                                                            "url":  null
+                                                                                                        },
+                                                                                          "square":  {
+                                                                                                         "width":  null,
+                                                                                                         "height":  null,
+                                                                                                         "mimeType":  null,
+                                                                                                         "filesize":  null,
+                                                                                                         "filename":  null,
+                                                                                                         "url":  null
+                                                                                                     },
+                                                                                          "small":  {
+                                                                                                        "width":  null,
+                                                                                                        "height":  null,
+                                                                                                        "mimeType":  null,
+                                                                                                        "filesize":  null,
+                                                                                                        "filename":  null,
+                                                                                                        "url":  null
+                                                                                                    },
+                                                                                          "medium":  {
+                                                                                                         "width":  null,
+                                                                                                         "height":  null,
+                                                                                                         "mimeType":  null,
+                                                                                                         "filesize":  null,
+                                                                                                         "filename":  null,
+                                                                                                         "url":  null
+                                                                                                     },
+                                                                                          "large":  {
+                                                                                                        "width":  null,
+                                                                                                        "height":  null,
+                                                                                                        "mimeType":  null,
+                                                                                                        "filesize":  null,
+                                                                                                        "filename":  null,
+                                                                                                        "url":  null
+                                                                                                    },
+                                                                                          "xlarge":  {
+                                                                                                         "width":  null,
+                                                                                                         "height":  null,
+                                                                                                         "mimeType":  null,
+                                                                                                         "filesize":  null,
+                                                                                                         "filename":  null,
+                                                                                                         "url":  null
+                                                                                                     },
+                                                                                          "og":  {
+                                                                                                     "width":  null,
+                                                                                                     "height":  null,
+                                                                                                     "mimeType":  null,
+                                                                                                     "filesize":  null,
+                                                                                                     "filename":  null,
+                                                                                                     "url":  null
+                                                                                                 }
+                                                                                      },
+                                                                            "id":  "6a196f6708c18aa57a772790",
+                                                                            "url":  "/api/media/file/protection.png",
+                                                                            "thumbnailURL":  null
+                                                                        },
+                                                               "title":  "Healthcare \u0026 Life Sciences",
+                                                               "id":  "6a196ca1b2cd17dd2be38958"
+                                                           }
+                                                       ],
+                                        "id":  "6a196c7eb2cd17dd2be3894c",
+                                        "blockName":  "Industries We Serve"
+                                    },
+                                    {
+                                        "blockType":  "why_partner_block",
+                                        "title":  "Why Partner With Us",
+                                        "features":  [
+                                                         {
+                                                             "icon":  {
+                                                                          "createdAt":  "2026-05-29T10:56:59.081Z",
+                                                                          "updatedAt":  "2026-05-29T10:56:59.081Z",
+                                                                          "filename":  "pic-32.png",
+                                                                          "mimeType":  "image/png",
+                                                                          "filesize":  5449,
+                                                                          "width":  600,
+                                                                          "height":  600,
+                                                                          "focalX":  50,
+                                                                          "focalY":  50,
+                                                                          "sizes":  {
+                                                                                        "thumbnail":  {
+                                                                                                          "width":  300,
+                                                                                                          "height":  300,
+                                                                                                          "mimeType":  "image/png",
+                                                                                                          "filesize":  15317,
+                                                                                                          "filename":  "pic-32-300x300.png",
+                                                                                                          "url":  "/api/media/file/pic-32-300x300.png"
+                                                                                                      },
+                                                                                        "square":  {
+                                                                                                       "width":  500,
+                                                                                                       "height":  500,
+                                                                                                       "mimeType":  "image/png",
+                                                                                                       "filesize":  28519,
+                                                                                                       "filename":  "pic-32-500x500.png",
+                                                                                                       "url":  "/api/media/file/pic-32-500x500.png"
+                                                                                                   },
+                                                                                        "small":  {
+                                                                                                      "width":  600,
+                                                                                                      "height":  600,
+                                                                                                      "mimeType":  "image/png",
+                                                                                                      "filesize":  9739,
+                                                                                                      "filename":  "pic-32-600x600.png",
+                                                                                                      "url":  "/api/media/file/pic-32-600x600.png"
+                                                                                                  },
+                                                                                        "medium":  {
+                                                                                                       "width":  null,
+                                                                                                       "height":  null,
+                                                                                                       "mimeType":  null,
+                                                                                                       "filesize":  null,
+                                                                                                       "filename":  null,
+                                                                                                       "url":  null
+                                                                                                   },
+                                                                                        "large":  {
+                                                                                                      "width":  null,
+                                                                                                      "height":  null,
+                                                                                                      "mimeType":  null,
+                                                                                                      "filesize":  null,
+                                                                                                      "filename":  null,
+                                                                                                      "url":  null
+                                                                                                  },
+                                                                                        "xlarge":  {
+                                                                                                       "width":  null,
+                                                                                                       "height":  null,
+                                                                                                       "mimeType":  null,
+                                                                                                       "filesize":  null,
+                                                                                                       "filename":  null,
+                                                                                                       "url":  null
+                                                                                                   },
+                                                                                        "og":  {
+                                                                                                   "width":  null,
+                                                                                                   "height":  null,
+                                                                                                   "mimeType":  null,
+                                                                                                   "filesize":  null,
+                                                                                                   "filename":  null,
+                                                                                                   "url":  null
+                                                                                               }
+                                                                                    },
+                                                                          "id":  "6a1970fb08c18aa57a772a88",
+                                                                          "url":  "/api/media/file/pic-32.png",
+                                                                          "thumbnailURL":  "/api/media/file/pic-32-300x300.png"
+                                                                      },
+                                                             "description":  "Proven partnerships with Fortune 500 companies",
+                                                             "id":  "6a1970eeb2cd17dd2be3895c"
+                                                         },
+                                                         {
+                                                             "icon":  {
+                                                                          "createdAt":  "2026-05-29T10:57:17.396Z",
+                                                                          "updatedAt":  "2026-05-29T10:57:17.396Z",
+                                                                          "filename":  "pic-35.png",
+                                                                          "mimeType":  "image/png",
+                                                                          "filesize":  7723,
+                                                                          "width":  600,
+                                                                          "height":  600,
+                                                                          "focalX":  50,
+                                                                          "focalY":  50,
+                                                                          "sizes":  {
+                                                                                        "thumbnail":  {
+                                                                                                          "width":  300,
+                                                                                                          "height":  300,
+                                                                                                          "mimeType":  "image/png",
+                                                                                                          "filesize":  22829,
+                                                                                                          "filename":  "pic-35-300x300.png",
+                                                                                                          "url":  "/api/media/file/pic-35-300x300.png"
+                                                                                                      },
+                                                                                        "square":  {
+                                                                                                       "width":  500,
+                                                                                                       "height":  500,
+                                                                                                       "mimeType":  "image/png",
+                                                                                                       "filesize":  44560,
+                                                                                                       "filename":  "pic-35-500x500.png",
+                                                                                                       "url":  "/api/media/file/pic-35-500x500.png"
+                                                                                                   },
+                                                                                        "small":  {
+                                                                                                      "width":  600,
+                                                                                                      "height":  600,
+                                                                                                      "mimeType":  "image/png",
+                                                                                                      "filesize":  13117,
+                                                                                                      "filename":  "pic-35-600x600.png",
+                                                                                                      "url":  "/api/media/file/pic-35-600x600.png"
+                                                                                                  },
+                                                                                        "medium":  {
+                                                                                                       "width":  null,
+                                                                                                       "height":  null,
+                                                                                                       "mimeType":  null,
+                                                                                                       "filesize":  null,
+                                                                                                       "filename":  null,
+                                                                                                       "url":  null
+                                                                                                   },
+                                                                                        "large":  {
+                                                                                                      "width":  null,
+                                                                                                      "height":  null,
+                                                                                                      "mimeType":  null,
+                                                                                                      "filesize":  null,
+                                                                                                      "filename":  null,
+                                                                                                      "url":  null
+                                                                                                  },
+                                                                                        "xlarge":  {
+                                                                                                       "width":  null,
+                                                                                                       "height":  null,
+                                                                                                       "mimeType":  null,
+                                                                                                       "filesize":  null,
+                                                                                                       "filename":  null,
+                                                                                                       "url":  null
+                                                                                                   },
+                                                                                        "og":  {
+                                                                                                   "width":  null,
+                                                                                                   "height":  null,
+                                                                                                   "mimeType":  null,
+                                                                                                   "filesize":  null,
+                                                                                                   "filename":  null,
+                                                                                                   "url":  null
+                                                                                               }
+                                                                                    },
+                                                                          "id":  "6a19710d08c18aa57a772aaf",
+                                                                          "url":  "/api/media/file/pic-35.png",
+                                                                          "thumbnailURL":  "/api/media/file/pic-35-300x300.png"
+                                                                      },
+                                                             "description":  "Access to pre-vetted, skilled professionals nationwide",
+                                                             "id":  "6a1970feb2cd17dd2be3895e"
+                                                         },
+                                                         {
+                                                             "icon":  {
+                                                                          "createdAt":  "2026-05-29T10:58:41.976Z",
+                                                                          "updatedAt":  "2026-05-29T10:58:41.976Z",
+                                                                          "filename":  "pic-34.png",
+                                                                          "mimeType":  "image/png",
+                                                                          "filesize":  5556,
+                                                                          "width":  600,
+                                                                          "height":  600,
+                                                                          "focalX":  50,
+                                                                          "focalY":  50,
+                                                                          "sizes":  {
+                                                                                        "thumbnail":  {
+                                                                                                          "width":  300,
+                                                                                                          "height":  300,
+                                                                                                          "mimeType":  "image/png",
+                                                                                                          "filesize":  16751,
+                                                                                                          "filename":  "pic-34-300x300.png",
+                                                                                                          "url":  "/api/media/file/pic-34-300x300.png"
+                                                                                                      },
+                                                                                        "square":  {
+                                                                                                       "width":  500,
+                                                                                                       "height":  500,
+                                                                                                       "mimeType":  "image/png",
+                                                                                                       "filesize":  32283,
+                                                                                                       "filename":  "pic-34-500x500.png",
+                                                                                                       "url":  "/api/media/file/pic-34-500x500.png"
+                                                                                                   },
+                                                                                        "small":  {
+                                                                                                      "width":  600,
+                                                                                                      "height":  600,
+                                                                                                      "mimeType":  "image/png",
+                                                                                                      "filesize":  9728,
+                                                                                                      "filename":  "pic-34-600x600.png",
+                                                                                                      "url":  "/api/media/file/pic-34-600x600.png"
+                                                                                                  },
+                                                                                        "medium":  {
+                                                                                                       "width":  null,
+                                                                                                       "height":  null,
+                                                                                                       "mimeType":  null,
+                                                                                                       "filesize":  null,
+                                                                                                       "filename":  null,
+                                                                                                       "url":  null
+                                                                                                   },
+                                                                                        "large":  {
+                                                                                                      "width":  null,
+                                                                                                      "height":  null,
+                                                                                                      "mimeType":  null,
+                                                                                                      "filesize":  null,
+                                                                                                      "filename":  null,
+                                                                                                      "url":  null
+                                                                                                  },
+                                                                                        "xlarge":  {
+                                                                                                       "width":  null,
+                                                                                                       "height":  null,
+                                                                                                       "mimeType":  null,
+                                                                                                       "filesize":  null,
+                                                                                                       "filename":  null,
+                                                                                                       "url":  null
+                                                                                                   },
+                                                                                        "og":  {
+                                                                                                   "width":  null,
+                                                                                                   "height":  null,
+                                                                                                   "mimeType":  null,
+                                                                                                   "filesize":  null,
+                                                                                                   "filename":  null,
+                                                                                                   "url":  null
+                                                                                               }
+                                                                                    },
+                                                                          "id":  "6a19716108c18aa57a772b55",
+                                                                          "url":  "/api/media/file/pic-34.png",
+                                                                          "thumbnailURL":  "/api/media/file/pic-34-300x300.png"
+                                                                      },
+                                                             "description":  "Dedicated account managers and transparent communication",
+                                                             "id":  "6a19712fb2cd17dd2be38960"
+                                                         },
+                                                         {
+                                                             "icon":  {
+                                                                          "createdAt":  "2026-05-29T10:58:56.479Z",
+                                                                          "updatedAt":  "2026-05-29T10:58:56.479Z",
+                                                                          "filename":  "pic-33.png",
+                                                                          "mimeType":  "image/png",
+                                                                          "filesize":  4176,
+                                                                          "width":  600,
+                                                                          "height":  600,
+                                                                          "focalX":  50,
+                                                                          "focalY":  50,
+                                                                          "sizes":  {
+                                                                                        "thumbnail":  {
+                                                                                                          "width":  300,
+                                                                                                          "height":  300,
+                                                                                                          "mimeType":  "image/png",
+                                                                                                          "filesize":  12065,
+                                                                                                          "filename":  "pic-33-300x300.png",
+                                                                                                          "url":  "/api/media/file/pic-33-300x300.png"
+                                                                                                      },
+                                                                                        "square":  {
+                                                                                                       "width":  500,
+                                                                                                       "height":  500,
+                                                                                                       "mimeType":  "image/png",
+                                                                                                       "filesize":  23108,
+                                                                                                       "filename":  "pic-33-500x500.png",
+                                                                                                       "url":  "/api/media/file/pic-33-500x500.png"
+                                                                                                   },
+                                                                                        "small":  {
+                                                                                                      "width":  600,
+                                                                                                      "height":  600,
+                                                                                                      "mimeType":  "image/png",
+                                                                                                      "filesize":  7863,
+                                                                                                      "filename":  "pic-33-600x600.png",
+                                                                                                      "url":  "/api/media/file/pic-33-600x600.png"
+                                                                                                  },
+                                                                                        "medium":  {
+                                                                                                       "width":  null,
+                                                                                                       "height":  null,
+                                                                                                       "mimeType":  null,
+                                                                                                       "filesize":  null,
+                                                                                                       "filename":  null,
+                                                                                                       "url":  null
+                                                                                                   },
+                                                                                        "large":  {
+                                                                                                      "width":  null,
+                                                                                                      "height":  null,
+                                                                                                      "mimeType":  null,
+                                                                                                      "filesize":  null,
+                                                                                                      "filename":  null,
+                                                                                                      "url":  null
+                                                                                                  },
+                                                                                        "xlarge":  {
+                                                                                                       "width":  null,
+                                                                                                       "height":  null,
+                                                                                                       "mimeType":  null,
+                                                                                                       "filesize":  null,
+                                                                                                       "filename":  null,
+                                                                                                       "url":  null
+                                                                                                   },
+                                                                                        "og":  {
+                                                                                                   "width":  null,
+                                                                                                   "height":  null,
+                                                                                                   "mimeType":  null,
+                                                                                                   "filesize":  null,
+                                                                                                   "filename":  null,
+                                                                                                   "url":  null
+                                                                                               }
+                                                                                    },
+                                                                          "id":  "6a19717008c18aa57a772b74",
+                                                                          "url":  "/api/media/file/pic-33.png",
+                                                                          "thumbnailURL":  "/api/media/file/pic-33-300x300.png"
+                                                                      },
+                                                             "description":  "Scalable solutions tailored to your hiring goals",
+                                                             "id":  "6a197135b2cd17dd2be38962"
+                                                         },
+                                                         {
+                                                             "icon":  {
+                                                                          "createdAt":  "2026-05-29T10:59:05.061Z",
+                                                                          "updatedAt":  "2026-05-29T10:59:05.061Z",
+                                                                          "filename":  "pic-36.png",
+                                                                          "mimeType":  "image/png",
+                                                                          "filesize":  5110,
+                                                                          "width":  600,
+                                                                          "height":  600,
+                                                                          "focalX":  50,
+                                                                          "focalY":  50,
+                                                                          "sizes":  {
+                                                                                        "thumbnail":  {
+                                                                                                          "width":  300,
+                                                                                                          "height":  300,
+                                                                                                          "mimeType":  "image/png",
+                                                                                                          "filesize":  12588,
+                                                                                                          "filename":  "pic-36-300x300.png",
+                                                                                                          "url":  "/api/media/file/pic-36-300x300.png"
+                                                                                                      },
+                                                                                        "square":  {
+                                                                                                       "width":  500,
+                                                                                                       "height":  500,
+                                                                                                       "mimeType":  "image/png",
+                                                                                                       "filesize":  23786,
+                                                                                                       "filename":  "pic-36-500x500.png",
+                                                                                                       "url":  "/api/media/file/pic-36-500x500.png"
+                                                                                                   },
+                                                                                        "small":  {
+                                                                                                      "width":  600,
+                                                                                                      "height":  600,
+                                                                                                      "mimeType":  "image/png",
+                                                                                                      "filesize":  9888,
+                                                                                                      "filename":  "pic-36-600x600.png",
+                                                                                                      "url":  "/api/media/file/pic-36-600x600.png"
+                                                                                                  },
+                                                                                        "medium":  {
+                                                                                                       "width":  null,
+                                                                                                       "height":  null,
+                                                                                                       "mimeType":  null,
+                                                                                                       "filesize":  null,
+                                                                                                       "filename":  null,
+                                                                                                       "url":  null
+                                                                                                   },
+                                                                                        "large":  {
+                                                                                                      "width":  null,
+                                                                                                      "height":  null,
+                                                                                                      "mimeType":  null,
+                                                                                                      "filesize":  null,
+                                                                                                      "filename":  null,
+                                                                                                      "url":  null
+                                                                                                  },
+                                                                                        "xlarge":  {
+                                                                                                       "width":  null,
+                                                                                                       "height":  null,
+                                                                                                       "mimeType":  null,
+                                                                                                       "filesize":  null,
+                                                                                                       "filename":  null,
+                                                                                                       "url":  null
+                                                                                                   },
+                                                                                        "og":  {
+                                                                                                   "width":  null,
+                                                                                                   "height":  null,
+                                                                                                   "mimeType":  null,
+                                                                                                   "filesize":  null,
+                                                                                                   "filename":  null,
+                                                                                                   "url":  null
+                                                                                               }
+                                                                                    },
+                                                                          "id":  "6a19717908c18aa57a772b93",
+                                                                          "url":  "/api/media/file/pic-36.png",
+                                                                          "thumbnailURL":  "/api/media/file/pic-36-300x300.png"
+                                                                      },
+                                                             "description":  "Average time-to-hire under 10 business days",
+                                                             "id":  "6a197138b2cd17dd2be38964"
+                                                         }
+                                                     ],
+                                        "id":  "6a1970cfb2cd17dd2be3895a"
+                                    }
+                                ],
+                     "meta":  {
+                                  "title":  "IT Staffing \u0026 Workforce Solutions | Strive Tech Partners",
+                                  "description":  "Explore IT staffing, direct hire, contract-to-hire \u0026 consulting services by Strive Tech Partners. Smarter workforce solutions for U.S. businesses."
+                              },
+                     "publishedAt":  "2026-05-29T09:46:43.529Z",
+                     "headerStyle":  "invert",
+                     "footerLayout":  "minimal",
+                     "generateSlug":  false,
+                     "slug":  "our-services",
+                     "_status":  "published",
+                     "id":  "6a19608395b10712f9474569"
+                 }
+             ],
+    "totalDocs":  1,
+    "limit":  10,
+    "totalPages":  1,
+    "page":  1,
+    "pagingCounter":  1,
+    "hasPrevPage":  false,
+    "hasNextPage":  false,
+    "prevPage":  null,
+    "nextPage":  null
+}
