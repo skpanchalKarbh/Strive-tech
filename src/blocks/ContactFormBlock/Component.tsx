@@ -64,28 +64,28 @@ export const ContactFormBlock: React.FC<ContactFormBlockProps> = ({
               {phoneCard && (
                 <div style={{ marginBottom: '20px', paddingBottom: '16px', borderBottom: '1px solid rgba(255,255,255,0.05)' }}>
                   <p style={{ color: '#00aeef', fontSize: '10px', fontWeight: 700, letterSpacing: '1px', textTransform: 'uppercase', marginBottom: '6px' }}>{phoneCard.title || 'OUR NUMBER'}</p>
-                  <p style={{ color: '#ffffff', fontSize: '14px', fontWeight: 600, margin: 0 }}>{phoneCard.description}</p>
+                  <p style={{ color: '#ffffff', fontSize: '14px', fontWeight: 600, margin: 0 }}>{phoneCard.value}</p>
                 </div>
               )}
 
               {emailCard && (
                 <div style={{ marginBottom: '20px', paddingBottom: '16px', borderBottom: '1px solid rgba(255,255,255,0.05)' }}>
                   <p style={{ color: '#00aeef', fontSize: '10px', fontWeight: 700, letterSpacing: '1px', textTransform: 'uppercase', marginBottom: '6px' }}>{emailCard.title || 'OUR EMAIL'}</p>
-                  <p style={{ color: '#ffffff', fontSize: '14px', fontWeight: 600, margin: 0 }}>{emailCard.description}</p>
+                  <p style={{ color: '#ffffff', fontSize: '14px', fontWeight: 600, margin: 0 }}>{emailCard.value}</p>
                 </div>
               )}
 
               {locationCard && (
                 <div style={{ marginBottom: '20px', paddingBottom: '16px', borderBottom: '1px solid rgba(255,255,255,0.05)' }}>
                   <p style={{ color: '#00aeef', fontSize: '10px', fontWeight: 700, letterSpacing: '1px', textTransform: 'uppercase', marginBottom: '6px' }}>{locationCard.title || 'OUR LOCATION'}</p>
-                  <p style={{ color: '#ffffff', fontSize: '14px', fontWeight: 600, margin: 0 }}>{locationCard.description}</p>
+                  <p style={{ color: '#ffffff', fontSize: '14px', fontWeight: 600, margin: 0 }}>{locationCard.value}</p>
                 </div>
               )}
 
               {!phoneCard && !emailCard && !locationCard && contact_cards && contact_cards.map((card: any, i: number) => (
                 <div key={i} style={{ marginBottom: '20px', paddingBottom: '16px', borderBottom: '1px solid rgba(255,255,255,0.05)' }}>
                   <p style={{ color: '#00aeef', fontSize: '10px', fontWeight: 700, letterSpacing: '1px', textTransform: 'uppercase', marginBottom: '6px' }}>{card.title}</p>
-                  <p style={{ color: '#ffffff', fontSize: '14px', fontWeight: 600, margin: 0 }}>{card.description}</p>
+                  <p style={{ color: '#ffffff', fontSize: '14px', fontWeight: 600, margin: 0 }}>{card.value}</p>
                 </div>
               ))}
 
