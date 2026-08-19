@@ -2,6 +2,7 @@ import React from 'react'
 import RichText from '@/components/RichText'
 import { FormBuilder } from '@/components/FormBuilder'
 import { sanitizeHTML } from '@/utilities/sanitizeHtml'
+import { InteractiveGlobe } from '@/components/InteractiveGlobe'
 
 import type { FormBlock as FormBlockProps } from '@/payload-types'
 import type { Form as FormType } from '@payloadcms/plugin-form-builder/types'
@@ -51,7 +52,7 @@ export const FormBlock: React.FC<FormBlockProps> = (props) => {
           borderRadius: '24px',
           padding: '36px',
           boxShadow: '0 20px 60px rgba(0,0,0,0.3)',
-          marginBottom: '24px',
+          marginBottom: '36px',
         }}>
           <div style={{
             display: 'flex',
@@ -114,50 +115,25 @@ export const FormBlock: React.FC<FormBlockProps> = (props) => {
           </div>
         </div>
 
-        {/* CARD 2 (Bottom): Visit Us (Map + Office Description + Stat Box) */}
-        <div style={{
-          background: '#081423',
-          border: '1px solid rgba(255,255,255,0.08)',
-          borderRadius: '24px',
-          padding: '36px',
-          boxShadow: '0 20px 60px rgba(0,0,0,0.3)',
-        }}>
-          <p style={{ color: '#00aeef', fontSize: '11px', fontWeight: 700, letterSpacing: '1px', textTransform: 'uppercase', marginBottom: '20px' }}>
-            {gmap_title ? <span dangerouslySetInnerHTML={{ __html: sanitizeHTML(gmap_title) }} /> : 'VISIT US'}
-          </p>
-
-          <div style={{ display: 'flex', flexWrap: 'wrap', gap: '24px', alignItems: 'center' }}>
-            {/* Map Box */}
-            {gmap && (
-              <div style={{ flex: '1 1 300px', borderRadius: '16px', overflow: 'hidden', border: '1px solid rgba(255,255,255,0.08)', height: '200px' }}>
-                <iframe
-                  src={gmap}
-                  style={{ border: 0, width: '100%', height: '100%', display: 'block' }}
-                  allowFullScreen={false}
-                  loading="lazy"
-                  referrerPolicy="no-referrer-when-downgrade"
-                />
-              </div>
+        {/* Optional Description Header if provided */}
+        {(desc_title || desc_content) && (
+          <div style={{ marginBottom: '20px' }}>
+            {desc_title && (
+              <h4
+                style={{ color: '#0b192c', fontWeight: 700, fontSize: '24px', marginBottom: '8px' }}
+                dangerouslySetInnerHTML={{ __html: sanitizeHTML(desc_title) }}
+              />
             )}
-
-            {/* Office Description */}
-            {(desc_title || desc_content) && (
-              <div style={{ flex: '2 1 300px', display: 'flex', flexDirection: 'column', justifyContent: 'center' }}>
-                {desc_title && (
-                  <h4
-                    style={{ color: '#ffffff', fontWeight: 700, fontSize: '22px', marginBottom: '12px' }}
-                    dangerouslySetInnerHTML={{ __html: sanitizeHTML(desc_title) }}
-                  />
-                )}
-                {desc_content && (
-                  <div style={{ color: '#8c939e', fontSize: '13px', lineHeight: '1.7' }}>
-                    <RichText data={desc_content} enableGutter={false} />
-                  </div>
-                )}
+            {desc_content && (
+              <div style={{ color: '#556b82', fontSize: '14px', lineHeight: '1.6' }}>
+                <RichText data={desc_content} enableGutter={false} />
               </div>
             )}
           </div>
-        </div>
+        )}
+
+        {/* CARD 2: Interactive 3D Globe Section */}
+        <InteractiveGlobe />
 
       </div>
 

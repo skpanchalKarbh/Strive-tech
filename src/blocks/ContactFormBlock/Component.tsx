@@ -1,6 +1,7 @@
 import React from 'react'
 import { Media } from '@/components/Media'
 import { FormBuilder } from '@/components/FormBuilder'
+import { InteractiveGlobe } from '@/components/InteractiveGlobe'
 import type { ContactFormBlock as ContactFormBlockProps } from '@/payload-types'
 import type { Form as FormType } from '@payloadcms/plugin-form-builder/types'
 
@@ -48,6 +49,7 @@ export const ContactFormBlock: React.FC<ContactFormBlockProps> = ({
           borderRadius: '24px',
           padding: '36px',
           boxShadow: '0 20px 60px rgba(0,0,0,0.3)',
+          marginBottom: '36px',
         }}>
           <div style={{ display: 'flex', flexWrap: 'wrap' }}>
 
@@ -123,6 +125,9 @@ export const ContactFormBlock: React.FC<ContactFormBlockProps> = ({
             </div>
           </div>
         </div>
+
+        {/* 3D Interactive Globe Section */}
+        <InteractiveGlobe />
 
       </div>
 
